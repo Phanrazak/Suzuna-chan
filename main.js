@@ -27,13 +27,23 @@ client.once('ready', () => {
 });
 
 client.on('message', message =>{
-    if(!message.content.startsWith(prefix) || message.author.bot) return;
+	
+    if(!message.content.startsWith(prefix) || message.author.bot){
+		if (message.content.toLowerCase().includes('cock')){
+			var emote = client.emojis.cache.find(emoji => emoji.name === "YEP");
+			message.react(emote);
+		}
+		return;
+	}	
  
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
- 
+	console.log(Date(Date.now()).toString()+" "+command); 
     if(command === 'schedule'){
         client.commands.get('schedule').execute(message, args);
+    } 
+	if(command === 'ping'){
+		client.commands.get('ping').execute(message);
     } 
 });
 
