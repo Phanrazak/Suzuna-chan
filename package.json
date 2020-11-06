@@ -1,0 +1,15 @@
+{
+  "name": "suzuna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "twit": "^2.2.11"
+  }
+}
