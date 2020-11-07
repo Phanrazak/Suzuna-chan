@@ -7,6 +7,8 @@ module.exports = {
 			.setColor('#FFB9BE')
 			.setURL('https://twitter.com/nishikkuma/status/1322591138809749507')
 			.setTitle('November')
+			.setTimestamp(Date.now())
+			.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png')
 			.setImage('https://pbs.twimg.com/media/ElrJY_jUYAAm9C-.jpg:large');
 		message.channel.send(embed);
 		

@@ -9,7 +9,7 @@ catch (e){
 }
 const client = new Discord.Client();
 
-const prefix = '~'
+const prefix = '^';
 
 const fs = require('fs');
 
@@ -24,6 +24,10 @@ for(const file of commandFiles){
 
 client.once('ready', () => {
 	console.log('ちょす');
+	client.user.setPresence({
+		status: 'idle',
+		activity: {name:'^',type: 'LISTENING',url: 'https://twitch.tv/PhanPhan'}
+	});
 });
 
 client.on('message', message =>{
@@ -38,14 +42,15 @@ client.on('message', message =>{
  
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
-	console.log(Date(Date.now()).toString()+" "+command+" from "
+    const term = client.commands.get(command) || client.commands.find(
+		cmd => cmd.aliases && cmd.aliases.includes(command));
+		
+	if (term) {
+		console.log(Date(Date.now()).toString()+" "+command+" from "
 		+(message.member === null ? message.author.username : message.member.nickname)); 
-    if(command === 'schedule'){
-        client.commands.get('schedule').execute(message, args);
-    } 
-	if(command === 'ping'){
-		client.commands.get('ping').execute(message);
-    } 
+		term.execute(message, args);
+		
+	}
 });
 
 client.login(Config.token);
