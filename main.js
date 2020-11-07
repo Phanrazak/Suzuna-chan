@@ -38,7 +38,8 @@ client.on('message', message =>{
  
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
-	console.log(Date(Date.now()).toString()+" "+command); 
+	console.log(Date(Date.now()).toString()+" "+command+" from "
+		+(message.member === null ? message.author.username : message.member.nickname)); 
     if(command === 'schedule'){
         client.commands.get('schedule').execute(message, args);
     } 
