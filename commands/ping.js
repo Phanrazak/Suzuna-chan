@@ -1,6 +1,6 @@
 module.exports = {
 	name: 'ping',
-	description: "ping command",
+	description: "Displays the time taken for a round trip the pc running the bot to discord and back in miliseconds",
 	execute(message){
 		var lack = Date.now();
 		message.channel.send('pong!')

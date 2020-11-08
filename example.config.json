@@ -1,0 +1,8 @@
+{
+    "token":"Bot token",
+    "twitterapi":"Twitter API token",
+    "twittersecret":"Twitter API secret token",
+    "twitterbearer":"twitter bearer token",
+    "accesstoken":"twitter access token",
+    "accesssecret":"twitter access secret token"
+    }

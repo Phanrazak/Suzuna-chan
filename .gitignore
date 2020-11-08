@@ -33,3 +33,4 @@ config.json
 #project settings 
 .idea
 .vs/
+.vscode/launch.json

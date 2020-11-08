@@ -8,6 +8,8 @@ catch (e){
 	process.exit();
 }
 const client = new Discord.Client();
+const twit = require('./commands/pulltweets.js')
+twit.run(client)
 
 const prefix = '^';
 
@@ -26,7 +28,7 @@ client.once('ready', () => {
 	console.log('ちょす');
 	client.user.setPresence({
 		status: 'idle',
-		activity: {name:'^',type: 'LISTENING',url: 'https://twitch.tv/PhanPhan'}
+		activity: {name:'^help',type: 'LISTENING',url: 'https://twitch.tv/PhanPhan'}
 	});
 });
 
@@ -47,7 +49,7 @@ client.on('message', message =>{
 		
 	if (term) {
 		console.log(Date(Date.now()).toString()+" "+command+" from "
-		+(message.member === null ? message.author.username : message.member.nickname)); 
+		+(message.member === null ? message.author.username : message.member.displayName)); 
 		term.execute(message, args);
 		
 	}

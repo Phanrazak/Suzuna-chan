@@ -1,7 +1,7 @@
 const Discord = require ('discord.js');
 module.exports = {
 	name: 'schedule',
-	description: "schedule commands",
+	description: "Schedule for Priconne, will be updated monthly",
 	execute(message){
 	  const embed = new Discord.MessageEmbed()
 			.setColor('#FFB9BE')
