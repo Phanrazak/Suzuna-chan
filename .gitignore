@@ -34,3 +34,4 @@ config.json
 .idea
 .vs/
 .vscode/launch.json
+./commands/cardsList.json
