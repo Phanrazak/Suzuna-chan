@@ -4,7 +4,7 @@ try {
 	cardsList = require('./cardsList.json');
 }
 catch (e){
-	console.log('error with config: '+e.message);
+	console.log('error with cardList: '+e.message);
 	process.exit();
 }
 module.exports = {
@@ -27,17 +27,7 @@ module.exports = {
 				embed.setDescription('You\'re a cutie');
 			  	embed.setImage(Uid.image);
 				embed.setTitle(Uid.name);
+				message.channel.send(embed);
 			}
-			
-		message.channel.send(embed);
 	}
 }
-
-		/*
-		for (var i = 0; i < userList.length; i++) {
-			if (args[0] === userList[i].name){
-				embed.setImage(userList[i].image);
-				embed.setTitle(userList[i].name);
-				break;
-			}
-			}*/

@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.4.1",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "vndb": "^0.1.0"
   }
 }
