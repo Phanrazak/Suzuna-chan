@@ -14,3 +14,4 @@ npm i node.js
 npm i twit
 npm i vndb
 ```
+Despite all the features. I would not call this a 1.0 even. Probably like Beta
