@@ -14,7 +14,7 @@ module.exports = {
         const embed = new Discord.MessageEmbed();
         var commands = Object.keys(helpList);
         embed.setAuthor('Phan','https://cdn.discordapp.com/emojis/580237219139289091.png','https://github.com/Phanrazak/Suzuna-chan');
-        embed.setTitle('Helping!');
+        embed.setTitle('Do ^help [command name] for more info about the command');
         embed.setTimestamp(Date.now());
         embed.setDescription(commands.join(', '));
         embed.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png');

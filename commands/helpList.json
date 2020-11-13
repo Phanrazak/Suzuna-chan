@@ -1,11 +1,11 @@
 {
 
     "cards": {"description": "This command is used for priconne friend cards to be displayed according to the latest one that you updated the bot with", "aliases": "card, c"},
-    "help": {"description": "a command that lists out all of the other commands", "aliases":""},
-    "info": {"description": "info about the bot", "aliases": "'i', 'information', 'about'"},
+    "help": {"description": "Lists out all of the other commands and their functionality", "aliases":""},
+    "info": {"description": "Info about the bot", "aliases": "'i', 'information', 'about'"},
     "ping": {"description": "Displays the time taken for a round trip the pc running the bot to discord and back in miliseconds", "aliases": ""},
     "schedule": {"description": "Schedule for Priconne, will be updated monthly", "aliases": ""},
     "vn": {"description": "search and pull vn data from the vndb website", "aliases": "novel"},
-    "character": {"description": "A command that lists out character's skills and info. Description is based on my own comments about the characters. Some biases are to be expected", "aliases": "chara, character, who, whois"}
+    "characters": {"description": "Lists out character's skills and their descriptions. Description is based on my own comments about the characters. Some biases are to be expected", "aliases": "chara, character, who, whois"}
     
 }

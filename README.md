@@ -7,11 +7,4 @@ But if you wanna use it. Just replace the values in "example.config.json" and re
 This bot uses Discord.js, node.js, twit package for npm and vndb package for npm.
 
 
-to install all of the packages. Do these separately  
-```
-npm i discord.js
-npm i node.js
-npm i twit
-npm i vndb
-```
 Despite all the features. I would not call this a 1.0 even. Probably like Beta
