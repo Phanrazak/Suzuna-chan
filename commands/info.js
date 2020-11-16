@@ -6,15 +6,14 @@ module.exports = {
 	execute(message){
 	  const embed = new Discord.MessageEmbed()
 			.setAuthor('Phan','https://cdn.discordapp.com/emojis/580237219139289091.png','https://github.com/Phanrazak/Suzuna-chan')
-			.setDescription('')
+			.setDescription('I made this :). Click on the link to go to the github to submit any issues or something.')
 			.setFooter('Suzuna-Chan v0.1','https://i.imgur.com/jNqJW4V.png')
 			.setThumbnail('https://i.imgur.com/jNqJW4V.png')
 			.setColor('#FFB9BE')
-			.setURL('https://www.twitter.com/Phanrazak')
-			.setTitle('Twidder')
+			.setURL('https://github.com/Phanrazak/Suzuna-chan')
+			.setTitle('ちょす！')
 			.setTimestamp(Date.now())
 			.setImage('https://i.imgur.com/T02C8j7.png');
 		message.channel.send(embed);
-		
   	}
 }

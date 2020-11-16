@@ -1418,7 +1418,7 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105861.webp",
+    "image": "https://static.wikia.nocookie.net/princess-connect/images/3/30/Icon-unit-artmgmonika.png",
     "guild": "Weiße Flügel"
 },
 "muimi": {
@@ -2082,7 +2082,7 @@
     "exname": "Gyaru's True Feeling", 
     "exdesc": "Increase own physical attack by medium amount at the start of battle **5★: Large increase own physical attack by large amount at the start of battle**", 
     "s1plus": "Large physical damage three times to the nearest enemy, if critical, **deal three times damage instead of two times, one of the damage is guaranteed critical hit**", 
-    "upgrade": "Small physical damage three times to the nearest enemy and increase own physical attack power by medium amount, this skill will never miss and always deal critical damage", 
+    "upgrade": "", 
     "upgradedesc": "", 
     "image": "https://flatisjustice.moe/priconne/unit/101631.webp",
     "guild": "Lucent Academy"
@@ -2099,7 +2099,7 @@
     "s2desc": "Increase own physical attack power by massive amount and fully recover own TP bar", 
     "exname": "Midsummer Vibes", 
     "exdesc": "Increase own physical attack by medium amount at the start of battle **5★: Large increase own physical attack by large amount at the start of battle**", 
-    "s1plus": "", 
+    "s1plus": "Small physical damage three times to the nearest enemy **and increase own physical attack power by medium amount, this skill will never miss and always deal critical damage**", 
     "upgrade": "", 
     "upgradedesc": "", 
     "image": "https://flatisjustice.moe/priconne/unit/110031.webp",
