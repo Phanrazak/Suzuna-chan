@@ -20,7 +20,7 @@ module.exports = {
         embed.setDescription('Temporarily disabled charlist here for now. Use guild instead. Will work on it soon-ish');
         embed.setColor('#FFB9B9');
         embed.setFooter("Suzuna-Chan","https://i.imgur.com/jNqJW4V.png");
-        var args_lower = args.join(',').toLowerCase();
+        var args_lower = args.join(' ').toLowerCase();
         if (Chara.includes(args_lower)){  
             let CharaItem = CharaInfo[args_lower];
             embed.setAuthor(CharaItem.name,CharaItem.image);
