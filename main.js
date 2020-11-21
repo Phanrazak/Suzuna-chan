@@ -45,7 +45,7 @@ client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
     const term = client.commands.get(command) || client.commands.find(
-		cmd => cmd.aliases && cmd.aliases.includes(command));
+		cmd => cmd.aliases == (command));
 		
 	if (term) {
 		console.log(Date(Date.now()).toString()+" "+command+" from "

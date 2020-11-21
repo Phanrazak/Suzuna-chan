@@ -14,8 +14,11 @@
     "s1plus": "Medium damage to the nearest enemy, **also reduces the magical defense by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100631.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/100631.webp",
+    "large": "https://redive.estertion.win/card/full/100631.webp",
+    "guild": "Diabolos",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S1"
 },
 "angel akari": {
     "name": "Angel Akari",
@@ -32,8 +35,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113731.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/113731.webp",
+    "large": "https://redive.estertion.win/card/full/113731.webp",
+    "guild": "Diabolos",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→ATK→ATK→S1→S2→ATK→ATK→S1→S2"
 },
 "akino": {
     "name": "Akino, OHOHOHOjousama",
@@ -50,8 +56,11 @@
     "s1plus": "Medium physical damage to the nearest enemy, Increase own physical attack and **TP gain rate** by a small amount. **Taunt enemies.** Move to the front alot and start OHOHOHO, if attacked while laughing, she will do counter that does physical medium damage attack in an area", 
     "upgrade": "Noble Prominence", 
     "upgradedesc": "Massive physical damage to **an area around the nearest enemy**, **Deploy a field that deals medium physical damage centered around the main target. Massive increase in physical attack power. Deploy a barrier to negate physical and magical damage**", 
-    "image": "https://flatisjustice.moe/priconne/unit/103261.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/103261.webp",
+    "large": "https://redive.estertion.win/card/full/103261.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "anna": {
     "name": "Anna",
@@ -68,8 +77,11 @@
     "s1plus": "**Reduces the magical defense of the nearest enemy by a small amount**, and then deal medium magical damage to them", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100931.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/100931.webp",
+    "large": "https://redive.estertion.win/card/full/100931_20180126_1817.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→ATK",
+    "loop": "S1→ATK→S1→ATK→S1"
 },
 "summer anna": {
     "name": "Summer Anna",
@@ -86,8 +98,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113231.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/113231.webp",
+    "large": "https://redive.estertion.win/card/full/113231.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→S2→S1→ATK→S2"
 },
 "anne": {
     "name": "Anne",
@@ -104,8 +119,11 @@
     "s1plus": "Medium damage to the nearest enemy, **if anne is under the Heroic Spirit buff, all allies will restore 100TP. Otherwise, boost her action speed by a small amount(25%)**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109231.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109231.webp",
+    "large": "https://redive.estertion.win/card/full/109231.webp",
+    "guild": "",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "aoi": {
     "name": "Owie",
@@ -122,8 +140,11 @@
     "s1plus": "Medium physical damage to the nearest enemy and inflict them with poison, **if the target is already poisoned. Inflict venom**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104031.webp",
-    "guild": "Forestier"
+    "image": "https://redive.estertion.win/icon/unit/104031.webp",
+    "large": "https://redive.estertion.win/card/full/104031.webp",
+    "guild": "Forestier",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "uniform aoi": {
     "name": "Uniform Aoi, Transfer Student Aoi",
@@ -140,8 +161,11 @@
     "s1plus": "Sets a field that deals small physical damage, Inflicts them with poison. Additionally, reduce the enemy's physical defense by a small amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110731.webp",
-    "guild": "Forestier/ Transferred to St. Theresa Girls' Academy"
+    "image": "https://redive.estertion.win/icon/unit/110731.webp",
+    "large": "https://redive.estertion.win/card/full/110731.webp",
+    "guild": "Forestier/ Transferred to St. Theresa Girls' Academy",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "arisa": {
     "name": "Arisa",
@@ -158,11 +182,14 @@
     "s1plus": "Small physical damage to the enemy with the highest Magical attack, lowers their action speed by a small amount (20%) **additionally reduce their magical attack by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/106331.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/106331.webp",
+    "large": "https://redive.estertion.win/card/full/106331.webp",
+    "guild": "",
+    "initial": "S1→S2→ATK",
+    "loop": "S2→ATK→S2→S1→ATK→S2→ATK→S2"
 },
 "ayane": {
-    "name": "Ayane",
+    "name": "Ayane, Pukichi",
     "description": "An arena character. She can basically corners anyone that she can reach. Basically putting the enemy frontline to the backline so you can reach the backline. She is very powerful at 6★",
     "kana": "アヤネ", 
     "ubname": "Puukichi Full Swing", 
@@ -176,8 +203,11 @@
     "s1plus": "Small physical damage to an area around the frontmost enemy and inflict then with stun. **Additionally, reduce the physical attack of one enemy and reduce their action speed by a medium amount(20%)", 
     "upgrade": "Puukichi Cyclone Arch", 
     "upgradedesc": "**Massive** amount of physical damage in an area around the nearest enemy, **pushes them away by a large amount and inflict stun**", 
-    "image": "https://flatisjustice.moe/priconne/unit/102361.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/102361.webp",
+    "large": "https://redive.estertion.win/card/full/102361.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "christmas ayane": {
     "name": "Christmas Ayane",
@@ -194,8 +224,11 @@
     "s1plus": "Boost own physical attack by a large amount and boost action speed by a large amount (75%)", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108631.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/108631.webp",
+    "large": "https://redive.estertion.win/card/full/108631.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2"
 },
 "ayumi": {
     "name": "Ayumi, Background character",
@@ -212,8 +245,11 @@
     "s1plus": "**medium** physical damage to an area infront of her, reduces the enemy's physical attack by a **medium** amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105531.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/105531.webp",
+    "large": "https://redive.estertion.win/card/full/105531.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→ATK→S2"
 },
 "wonder ayumi": {
     "name": "Wonder Ayumi, Za Warudo",
@@ -230,8 +266,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113031.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/113031.webp",
+    "large": "https://redive.estertion.win/card/full/113031.webp",
+    "guild": "Weiße Flügel",
+"initial": "S2→S1→ATK",
+"loop": "S2→ATK→S1→ATK→S2→ATK→ATK→S1"
 },
 "chieru": {
     "name": "Cheiru, Cheru~",
@@ -248,8 +287,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110931.webp",
-    "guild": "St. Theresa Girls' Academy(Buddy Club)"
+    "image": "https://redive.estertion.win/icon/unit/110931.webp",
+    "large": "https://redive.estertion.win/card/full/110931.webp",
+    "guild": "St. Theresa Girls' Academy(Buddy Club)",
+    "initial": "S1→ATK→S2",
+    "loop": "ATK→ATK→S2"
 },
 "chika": {
     "name": "Chika",
@@ -266,8 +308,11 @@
     "s1plus": "The frontmost allies and in an area around them will get a **medium** increase of physical attack. **Boost the physical crit of them as well and applies a regen that heals for a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104231.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/104231.webp",
+    "large": "https://redive.estertion.win/card/full/104231.webp",
+    "guild": "Carmina",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "christmas chika": {
     "name": "Christmas Chika",
@@ -284,8 +329,11 @@
     "s1plus": "Increases the physical attack of one ally with the highest physical attack by a large amount, **scales with her magical attack", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108431.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/108431.webp",
+    "large": "https://redive.estertion.win/card/full/108431.webp",
+    "guild": "Carmina",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "chloe": {
     "name": "Chloe, Kuroe",
@@ -302,8 +350,11 @@
     "s1plus": "Gains **massive** amount of physical attack, and applies a debuff on the enemy that stacks up to **90**. Debuff stack goes up by 1 for every hit she lands. **This buff now lasts for the entire battle**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110831.webp",
-    "guild": "St. Theresa Girls' Academy(Buddy Club)"
+    "image": "https://redive.estertion.win/icon/unit/110831.webp",
+    "large": "https://redive.estertion.win/card/full/110831.webp",
+    "guild": "St. Theresa Girls' Academy(Buddy Club)",
+    "initial": "S1",
+    "loop": "S2→ATK→ATK→S2→ATK"
 },
 "christina": {
     "name": "Christina, Babatina",
@@ -320,8 +371,11 @@
     "s1plus": "Increases own physical attack by a **massive** amount, increases own TP gain rate by a small amount, **restores TP by a large amount. Increases damage done with crits by a small amount(Lasts for the entire battle)**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107131.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/107131.webp",
+    "large": "https://redive.estertion.win/card/full/107131.webp",
+    "guild": "Nightmare",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→ATK→S1→S2→ATK→ATK→S2→S1→ATK→S2"
 },
 "christmas christina": {
     "name": "Christmas Christina, Chris Chris",
@@ -338,8 +392,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111531.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/111531.webp",
+    "large": "https://redive.estertion.win/card/full/111531.webp",
+    "guild": "Nightmare",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→ATK→S1→S2→ATK→ATK→S2→S1→ATK→S2"
 },
 "djeeta": {
     "name": "Djeeta",
@@ -356,8 +413,11 @@
     "s1plus": "Deals a **medium** amount of physical damage to the nearest enemy. **Recovers her own TP by a medium amount. as well as all allies by a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105731.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/105731.webp",
+    "large": "https://redive.estertion.win/card/full/105731.webp",
+    "guild": "",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "emilia": {
     "name": "Emilia, EMT",
@@ -374,8 +434,11 @@
     "s1plus": "Deals **massive** amount of damage to the nearest enemy and boosts her magical attack by a **massive** amount.", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109931.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109931.webp",
+    "large": "https://redive.estertion.win/card/full/109931.webp",
+    "guild": "",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→S1→S2→ATK→S1→ATK→S2"
 },
 "eriko": {
     "name": "Eriko, The Destroyer",
@@ -392,8 +455,11 @@
     "s1plus": "Increases own physical attack by a **large** amount, **additionally increases physical attack and physical crit rate by a massive amount(Lasts for 12s instead of 18 like the rest of S1)**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102731.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/102731.webp",
+    "large": "https://redive.estertion.win/card/full/102731.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→ATK→S2→ATK→S1"
 },
 "valentine eriko": {
     "name": "Valentine Eriko",
@@ -410,8 +476,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109031.webp",
-    "guild": "Twillight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/109031.webp",
+    "large": "https://redive.estertion.win/card/full/109031.webp",
+    "guild": "Twillight Caravan",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "grea": {
     "name": "Grea",
@@ -428,8 +497,11 @@
     "s1plus": "Gains invisibility towards physical and magical and rushes forward. Deals **large** magical damage in an area around the nearest enemy", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109431.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109431.webp",
+    "large": "https://redive.estertion.win/card/full/109431.webp",
+    "guild": "",
+    "initial": "S2→ATK→S1",
+    "loop": "ATK→S2→S1→ATK→ATK→S2→ATK→S1"
 },
 "hatsune": {
     "name": "Hatsune",
@@ -446,8 +518,11 @@
     "s1plus": "**Medium** magical damage to all enemies, **enemies that deal physical damage will take extra damage**", 
     "upgrade": "Shooting☆Meteor", 
     "upgradedesc": "Medium magical damage to all enemies. Enemies that deal physical damage will take an additional **large** magical damage, **reduce magical defenses by a small amount and be inflicted with stun**", 
-    "image": "https://flatisjustice.moe/priconne/unit/101261.webp",
-    "guild": "Forestier"
+    "image": "https://redive.estertion.win/icon/unit/101261.webp",
+    "large": "https://redive.estertion.win/card/full/101261.webp",
+    "guild": "Forestier",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→S1→ATK→S2→S1→ATK→ATK→S2→S1"
 },
 "summer hatsune": {
     "name": "Summer Hatsune",
@@ -464,8 +539,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113431.webp",
-    "guild": "Forestier"
+    "image": "https://redive.estertion.win/icon/unit/113431.webp",
+    "large": "https://redive.estertion.win/card/full/113431.webp",
+    "guild": "Forestier",
+    "initial": "S1→S2→S1",
+    "loop": "ATK→S2→ATK→S1→ATK→ATK→S2→ATK→S1"
 },
 "hiyori": {
     "name": "Hiyori",
@@ -482,8 +560,11 @@
     "s1plus": "**Large** physical damage to the nearest enemy, **additionally deals small physical damage to all enemies around them.", 
     "upgrade": "Hiyori Burning Rush", 
     "upgradedesc": "**Massive** physical damage to the nearest enemy, **in an area around the enemy**, deals **large** amount of physical damage", 
-    "image": "https://flatisjustice.moe/priconne/unit/100161.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/100161.webp",
+    "large": "https://redive.estertion.win/card/full/100161.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "new year hiyori": {
     "name": "New Year Hiyori",
@@ -500,8 +581,11 @@
     "s1plus": "Large increase to own physical attack, additionally increase all allies that does physical attack will gain a **massive** amount of physical attack, **physical crit increases by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108731.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/108731.webp",
+    "large": "https://redive.estertion.win/card/full/108731.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→S1→ATK→S2→ATK→S1→ATK→ATK→S2→ATK"
 },
 "illya": {
     "name": "Illya",
@@ -518,8 +602,11 @@
     "s1plus": "**Large** increase in own magical attack, medium magical damage to the nearest enemy and consume a medium amount of HP", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104431.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/104431.webp",
+    "large": "https://redive.estertion.win/card/full/104431.webp",
+    "guild": "Diabolos",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→S1→ATK→S2→S1"
 },
 "christmas illya": {
     "name": "Christmas Illya",
@@ -536,8 +623,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111731.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/111731.webp",
+    "large": "https://redive.estertion.win/card/full/111731.webp",
+    "guild": "Diabolos",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→S2→ATK→S1→S2→ATK→ATK→S1→S2"
 },
 "inori": {
     "name": "Inori",
@@ -554,8 +644,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/106631.webp",
-    "guild": "Dragon's Nest"
+    "image": "https://redive.estertion.win/icon/unit/106631.webp",
+    "large": "https://redive.estertion.win/card/full/106631.webp",
+    "guild": "Dragon's Nest",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2→ATK→S2"
 },
 "io": {
     "name": "Io, Io Sensei",
@@ -572,8 +665,11 @@
     "s1plus": "**Medium** magical damage in an area around the nearest enemy. **Reduces 'enemies with charm' TP by a large amount. Otherwise, reduces their physical and magical attack by a medium amount**", 
     "upgrade": "Heart Love Cyclone", 
     "upgradedesc": "**Medium** magical damage to all enemies, inflicts charm, **Reduces their TP and TP Fill Rate by a small amount**", 
-    "image": "https://flatisjustice.moe/priconne/unit/101861.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/101861.webp",
+    "large": "https://redive.estertion.win/card/full/101861.webp",
+    "guild": "Lucent Academy",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "summer io": {
     "name": "Summer Io, Sensei of the night, 'Cute demons that wants to be your slave'",
@@ -590,8 +686,11 @@
     "s1plus": "**Medium** magical to all enemies within range, restore the HP of the ally with the lowest amount of HP, healing is dependant by the number of enemies that got hit", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110131.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/110131.webp",
+    "large": "https://redive.estertion.win/card/full/110131.webp",
+    "guild": "Lucent Academy",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "jun": {
     "name": "Jun",
@@ -608,8 +707,11 @@
     "s1plus": "Searches for the lowest HP around her aream and heal them by a **medium** amount. Increase their physical attack and action speed by a small amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104731.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/104731.webp",
+    "large": "https://redive.estertion.win/card/full/104731.webp",
+    "guild": "Nightmare",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer jun": {
     "name": "Summer Jun",
@@ -626,12 +728,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113631.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/113631.webp",
+    "large": "https://redive.estertion.win/card/full/113631.webp",
+    "guild": "Nightmare",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→S1→ATK→S2→ATK→S1→S2"
 },
 "kaori": {
     "name": "Kaori, Summer Kaori",
-    "description": "A better than average attacker. Like all fist characters. She charges TP fast. The quirk is that she sits way in the front. And there are currently only 5 other characters that stands infront of her.",
+    "description": "A better than average attacker. Like all fist characters. She charges TP fast. The quirk is that she sits way in the front. And there are currently only 5 other characters that stands infront of her. She also gains stacks that raises her 'damage', it's not Patk (don't take it as Patk, because it's a different calculation). It's just pure physical damage",
     "kana": "カオリ", 
     "ubname": "Ryuukyuuken Knuckle Arrow", 
     "ubdesc": "Massive physical damage to the nearest enemy", 
@@ -644,8 +749,11 @@
     "s1plus": "**Large** physical damage to the nearest enemy", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/101731.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/101731.webp",
+    "large": "https://redive.estertion.win/card/full/101731.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→ATK→ATK→S1"
 },
 "summer kaori": {
     "name": "Summer Kaori, Summer Kaori Summer (Summer)",
@@ -662,8 +770,11 @@
     "s1plus": "**Medium** physical damage to an area centered around the nearest enemy, small knockback and inflict stun", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110531.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/110531.webp",
+    "large": "https://redive.estertion.win/card/full/110531.webp",
+    "guild": "Caon",
+    "initial": "S2→S1→ATK",
+    "loop": "S2→ATK→S1→S1→ATK→S2→ATK→S1"
 },
 "kasumi": {
     "name": "Tantei Kasumi, Kasumi",
@@ -680,8 +791,11 @@
     "s1plus": "Small magical damage to an area around the front enemy and inflict bind, Bind duration increase dependant on the number of enemies affected", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/101431.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/101431.webp",
+    "large": "https://redive.estertion.win/card/full/101431.webp",
+    "guild": "Caon",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "magical kasumi": {
     "name": "Magical Kasumi, Misty Kasumi, Misty Tantei Kasumi",
@@ -698,8 +812,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112231.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/112231.webp",
+    "large": "https://redive.estertion.win/card/full/112231.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "kaya": {
     "name": "Kaya",
@@ -716,8 +833,11 @@
     "s1plus": "Medium physical damage to the nearest enemy. **When used for the first time in a batte, this skill does a large amount of physical damage instead, reduces target's physical defense by a small amount and increases own physical attack by a massive amount**.", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/106531.webp",
-    "guild": "Dragon's nest"
+    "image": "https://redive.estertion.win/icon/unit/106531.webp",
+    "large": "https://redive.estertion.win/card/full/106531.webp",
+    "guild": "Dragon's nest",
+    "initial": "S2→S1→S1→S2→ATK→S1→S2",
+    "loop": "S1→ATK→S2→ATK→S1→ATK→ATK→S2→ATK"
 },
 "kokkoro": {
     "name": "Kokkoro",
@@ -734,8 +854,11 @@
     "s1plus": "Medium physical damage to the nearest enemy, **increase own physical attack by a small amount, increase own TP gain rate by a small amount**", 
     "upgrade": "Aurora Blooming", 
     "upgradedesc": "Heals herself by a large amount and heals all allies by a medium amount, **as well as increase Physical and Magical attack by a medium amount and increase TP Fill rate of all allies by a small amount**", 
-    "image": "https://flatisjustice.moe/priconne/unit/105961.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/105961.webp",
+    "large": "https://redive.estertion.win/card/full/105961.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer kokkoro": {
     "name": "Summer Kokkoro",
@@ -752,8 +875,11 @@
     "s1plus": "**Medium** physical damage to the nearest enemy, lowers their physical defense by a **large** amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107631.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/107631.webp",
+    "large": "https://redive.estertion.win/card/full/107631.webp",
+    "guild": "Bishoukuden",
+    "initial": "S1→S2→ATK",
+    "loop": "S2→ATK→S2→S1→ATK→S2→ATK→S2"
 },
 "new year kokkoro": {
     "name": "New Year Kokkoro, NyKokkoro",
@@ -770,12 +896,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111931.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/111931.webp",
+    "large": "https://redive.estertion.win/card/full/111931.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S2→ATK→S1"
 },
 "princess kokkoro": {
     "name": "Princess Kokkoro, Pkkr",
-    "description": "The best healer buffer debuffer hybrid. The fact that all her skills works in any team you put her in. She's pretty amazing for offensive uses. Despite her description. Her UB reaches everyone",
+    "description": "The best healer buffer debuffer hybrid. The fact that all her skills works in any team you put her in. She's pretty amazing for offensive uses. Despite her skills saying 'allies around her'. Her UB reaches everyone",
     "kana": "コッコロ（プリンセス）", 
     "ubname": "Aurora Sanctuary", 
     "ubdesc": "Deploys a field around herself that regens allies' health and TP gain rate by a small amount, additionally increases the physical and magical crit damage by a small amount and reduces all enemies' physical and magical defense ", 
@@ -788,8 +917,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/180531.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/180531.webp",
+    "large": "https://redive.estertion.win/card/full/180531.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→ATK→S2→S1→S2",
+    "loop": "ATK→S2→ATK→S1→S2→ATK→S2→ATK→ATK→ATK→S2→S1"
 },
 "kurumi": {
     "name": "Kurumi",
@@ -806,8 +938,11 @@
     "s1plus": "Increase the magical and physical defense of **all allies** by a medium amount **additionally restore her own TP by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102131.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/102131.webp",
+    "large": "https://redive.estertion.win/card/full/102131.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "christmas kurumi": {
     "name": "Christmas Kurumi",
@@ -824,8 +959,11 @@
     "s1plus": "She rings her bell, until she is attacked **5 times** or a set amount of time has passed. She continously increases all allies' physical defense by a massive amount in the duration. **Additionally increases all allies physical defense by a medium amount. And restore a small amount of her own TP", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108531.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/108531.webp",
+    "large": "https://redive.estertion.win/card/full/108531.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "kuuka": {
     "name": "Kuuka, The Big M",
@@ -842,8 +980,11 @@
     "s1plus": "Taunts all enemies, increase her own physical defense by a **large** amount, additionally restores own health by a small amount.", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104531.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/104531.webp",
+    "large": "https://redive.estertion.win/card/full/104531.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→ATK→S1→S2"
 },
 "ooedo kuuka": {
     "name": "Ooedo Kuuka, Ookuuka",
@@ -860,8 +1001,11 @@
     "s1plus": "Increase all allies' magical attack by a **large** amount, **additionally increases their action speed(25%) and magical crit rate by a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109531.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/109531.webp",
+    "large": "https://redive.estertion.win/card/full/109531.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "kyaru": {
     "name": "Kyaru, Cal, Karyl",
@@ -878,8 +1022,11 @@
     "s1plus": "Medium physical damage to the nearest enemy, **also reduces their physical attack**", 
     "upgrade": "Abyss Burst", 
     "upgradedesc": "**Large** magical damage to all enemies, **Also inflicts fear to affected enemies**", 
-    "image": "https://flatisjustice.moe/priconne/unit/106061.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/106061.webp",
+    "large": "https://redive.estertion.win/card/full/106061.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "new year kyaru": {
     "name": "New Year Kyaru, Nyaru",
@@ -896,8 +1043,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112031.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/112031.webp",
+    "large": "https://redive.estertion.win/card/full/112031.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→S2→ATK→S1→ATK"
 },
 "summer kyaru": {
     "name": "Summer Kyaru, Skyaru, Summer Cal, Summer Karyl",
@@ -914,8 +1064,11 @@
     "s1plus": "**Large** magical damage to the nearest enemy, **reduces their magical defense by a small amount.**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107831.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/107831.webp",
+    "large": "https://redive.estertion.win/card/full/107831.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→ATK→S1→ATK→S2→ATK→S1"
 },
 "kyouka": {
     "name": "Kyouka",
@@ -932,8 +1085,11 @@
     "s1plus": "**Large** magical damage to the nearest enemy, **this skill does 4x damage instead of 2x if it crits**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/103631.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/103631.webp",
+    "large": "https://redive.estertion.win/card/full/103631.webp",
+    "guild": "Little Lyrical",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→S1→ATK→ATK→S2→S1"
 },
 "halloween kyouka": {
     "name": "Halloween Kyouka, HKyouka, Haro Kyouka",
@@ -950,26 +1106,32 @@
     "s1plus": "Increases the magical attack of the ally with the highest magical attack by a **Large** amount, buff goes up as Kyouka's magical attack goes up", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111131.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/111131.webp",
+    "large": "https://redive.estertion.win/card/full/111131.webp",
+    "guild": "Little Lyrical",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "labyrista": {
-    "name": "Akira, Labyrista, Laby, Labylister",
+    "name": "Akira, Labyrista, Laby, Labylister, Crepe Woman",
     "description": "A buffer and a debuffer. She is a core in physical teams for boss battles. Her UB works unconventionally compared to other's UB. It's best to pair her up with Pkkr for the TP Buff as she's unlikely to get 2 UB off before the battle ends.",
     "kana": "ラビリスタ", 
     "ubname": "Object Creation", 
     "ubdesc": "Enters 「Object Creation mode」, increases own physical attack and crit rate by a massive amount. Increases all allies' physical crit damage by a small amount. Approximately 24s after casting this, Casts Initialize and deal massive damage to all enemies, and SUCC own TP.", 
-    "s1name": "Optimize,「Acceleration」", 
-    "s1desc": "Increases all allies' physical attack and crit rate by a large amount. 「Increases all allies' physical attack, crit rate by a massive amount and boosts action speed by a large amount(50%) 」", 
-    "s2name": "Build,「Export」", 
-    "s2desc": "Medium physical damage to the nearest enemy, reduces their physical defense by a small amount. 「Large physical damage to the nearest enemy, reduces their physical defense by a small amount.」", 
-    "exname": "Queen's Domain", 
-    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle.**", 
+    "s1name": "Optimize,\n「Acceleration」", 
+    "s1desc": "Increases all allies' physical attack and crit rate by a large amount.\n「Increases all allies' physical attack, crit rate by a massive amount and boosts action speed by a large amount(50%) 」", 
+    "s2name": "Build,\n「Export」", 
+    "s2desc": "Medium physical damage to the nearest enemy, reduces their physical defense by a small amount.\n「Large physical damage to the nearest enemy, reduces their physical defense by a small amount.」", 
+    "exname": "Queen's Domain,\n「Initialise」", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle.**\n「Massive damage to all enemies, cancels out「 Object Creation」, and lowers TP by 1000」", 
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/106831.webp",
-    "guild": "Labyrinth"
+    "image": "https://redive.estertion.win/icon/unit/106831.webp",
+    "large": "https://redive.estertion.win/card/full/106831.webp",
+    "guild": "Labyrinth",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→ATK→S1→ATK→S2→S1\nS2→S1→S2→S1→S2→S1→EX"
 },
 "luna": {
     "name": "Luna, Nyaru's TP slave",
@@ -982,12 +1144,15 @@
     "s2name": "Undying Resentment", 
     "s2desc": "Medium magical damage to the nearest enemy, if there are 2 or more Tomodachi. Consume 2, and deal a large amount magical damage instead ", 
     "exname": "Will You Be My Friend?", 
-    "exdesc": "Medium increase to own magical attack at the start of battle. | Gains 1 Tomodachi everytime she deals damage **5★: Large increase to own magical attack at the start of battle.**", 
+    "exdesc": "Medium increase to own magical attack at the start of battle.\n Gains 1 Tomodachi everytime she deals damage **5★: Large increase to own magical attack at the start of battle.**\nGains 1 Tomodachi everytime she deals damage ", 
     "s1plus": "Medium magical damage to the highest health ally, restores their TP by a medium amount and gain 1 Tomodachi. **Additionally, increases their magical attack power by a small amount, and their magical crit rate by a large amount. Also restore own TP by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111431.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/111431.webp",
+    "large": "https://redive.estertion.win/card/full/111431.webp",
+    "guild": "",
+    "initial": "EX→S1→ATK→S1→S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "mahiru": {
     "name": "Mahiru, Elizabeth",
@@ -1004,8 +1169,11 @@
     "s1plus": "**large** physical damage to the nnearest enemy, **large** knockback", 
     "upgrade": "Elizabeth Combination", 
     "upgradedesc": "**Massive** physical damage to the nearest enemy, inflicts them with a stun debuff **and pushes them away by a large distance**. **Deals large amount of damage to an area around the target and inflicts them with confusion**", 
-    "image": "https://static.wikia.nocookie.net/princess-connect/images/6/65/Icon-unit-6mahiru.png",
-    "guild": "Elizabeth Park"
+    "image": "https://redive.estertion.win/icon/unit/103361.webp",
+    "large": "https://redive.estertion.win/card/full/103361.webp",
+    "guild": "Elizabeth Park",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "ranger mahiru": {
     "name": "Ranger Mahiru",
@@ -1022,8 +1190,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112831.webp",
-    "guild": "Elizabeth Park"
+    "image": "https://redive.estertion.win/icon/unit/112831.webp",
+    "large": "https://redive.estertion.win/card/full/112831.webp",
+    "guild": "Elizabeth Park",
+    "initial": "S1→S2→ATK→S2",
+    "loop": "S1→S2→ATK→S2→S1→ATK→S2→ATK"
 },
 "maho": {
     "name": "Maho, Maho Maho, Maho but with a Gun",
@@ -1040,8 +1211,11 @@
     "s1plus": "Restore one ally's Health by a large amount, **additionally increases their physical defense by a medium amount and applies a HP regen on them.**", 
     "upgrade": "Marchen Kingdom", 
     "upgradedesc": "Restore the TP of all allies by a small amount, increases the physical defense and magical attack of all allies by a small amount", 
-    "image": "https://flatisjustice.moe/priconne/unit/101061.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/101061.webp",
+    "large": "https://redive.estertion.win/card/full/101061.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→ATK→ATK→S1→ATK→S2→ATK"
 },
 "summer maho": {
     "name": "Summer Maho",
@@ -1058,8 +1232,11 @@
     "s1plus": "Increase own magical attack **by a massive amount** and restore TP by a medium amount. **Additionnaly, increase own TP gain by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110631.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/110631.webp",
+    "large": "https://redive.estertion.win/card/full/110631.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S2→ATK→S1"
 },
 "makoto": {
     "name": "Makoto, Mako",
@@ -1076,8 +1253,11 @@
     "s1plus": "Medium physical damage to the nearest enemy. Additionay, **Increases own physica attack by a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/104331.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/104331.webp",
+    "large": "https://redive.estertion.win/card/full/104331.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer makoto": {
     "name": "Summer Makoto, Smako, Smakoto",
@@ -1094,8 +1274,11 @@
     "s1plus": "Medium physical damage to the nearest enemy. If there is only 1 enemy on the field, deal an additional **medium** amount of damage, and reduce their physical damage by a small amount. **Additionally, increases her own physical attack power by a small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110431.webp",
-    "guild": "Caon"
+    "image": "https://redive.estertion.win/icon/unit/110431.webp",
+    "large": "https://redive.estertion.win/card/full/110431.webp",
+    "guild": "Caon",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "matsuri": {
     "name": "Matsuri",
@@ -1112,8 +1295,11 @@
     "s1plus": "Small physical damage to all enemies around her, inflicts stun. **Additionally increases own physical defense and magica defense by a massive amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100531.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/100531.webp",
+    "large": "https://redive.estertion.win/card/full/100531.webp",
+    "guild": "Nightmare",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "halloween matsuri": {
     "name": "Halloween Matsuri, Haro Matsu, White Tiger Matsuri",
@@ -1130,8 +1316,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/114131.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/114131.webp",
+    "large": "https://redive.estertion.win/card/full/114131.webp",
+    "guild": "Nightmare",
+    "initial": "S2→ATK→S1→S2",
+    "loop": "ATK→ATK→S1→S2→ATK→S1"
 },
 "mifuyu": {
     "name": "Mifuyu",
@@ -1148,8 +1337,11 @@
     "s1plus": "Restores own Health by a large amount, **Additionally, increases own physical and magical defense by a large amount. Deploys a field around her and heal all allies' in range**", 
     "upgrade": "Vortex Stream", 
     "upgradedesc": "**Massive** physical damage to the nearest enemy, inflict stun. **Additionally, if the main target is already stunned prior to UB. Deal Massive damage to all enemies and stun them**", 
-    "image": "https://flatisjustice.moe/priconne/unit/104861.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/104861.webp",
+    "large": "https://redive.estertion.win/card/full/104861.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer mifuyu": {
     "name": "Summer Mifuyu",
@@ -1166,8 +1358,11 @@
     "s1plus": "**Medium** physical damage to the nearest enemy, enemies around them will take a **large** amount of physical damage", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108031.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/108031.webp",
+    "large": "https://redive.estertion.win/card/full/108031.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→S1→ATK→S1"
 },
 "mimi": {
     "name": "Mimi, Usagi San",
@@ -1184,8 +1379,11 @@
     "s1plus": "**Large** physical damage to **all enemies**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102031.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/102031.webp",
+    "large": "https://redive.estertion.win/card/full/102031.webp",
+    "guild": "Little Lyrical",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "halloween mimi": {
     "name": "Halloween Mimi, HMimi",
@@ -1202,8 +1400,11 @@
     "s1plus": "Large physical damage to an area infront of Mimi", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111331.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/111331.webp",
+    "large": "https://redive.estertion.win/card/full/111331.webp",
+    "guild": "Little Lyrical",
+    "initial": "S2→S1",
+    "loop": "S1→S2→S1→ATK"
 },
 "mio": {
     "name": "Mio, Need Tomboy, Step!",
@@ -1220,8 +1421,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112631.webp",
-    "guild": "Deremasu"
+    "image": "https://redive.estertion.win/icon/unit/112631.webp",
+    "large": "https://redive.estertion.win/card/full/112631.webp",
+    "guild": "Deremasu",
+    "initial": "S1→ATK→S1",
+    "loop": "S2→S1→ATK→S1"
 },
 "misaki": {
     "name": "Misaki",
@@ -1238,8 +1442,11 @@
     "s1plus": "**Medium** magical damage to the nearest enemy, reduces their action speed by a **Medium amount(35%)**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105031.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/105031.webp",
+    "large": "https://redive.estertion.win/card/full/105031.webp",
+    "guild": "Lucent Academy",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "halloween misaki": {
     "name": "Halloween Misaki, Haro Misa",
@@ -1256,8 +1463,11 @@
     "s1plus": "**Medium** magical damage to the nearest enemy, inflicts charm. Also reduces their TP by a small amount.", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108331.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/108331.webp",
+    "large": "https://redive.estertion.win/card/full/108331.webp",
+    "guild": "Lucent Academy",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S2→S1"
 },
 "misato": {
     "name": "Misato",
@@ -1274,8 +1484,11 @@
     "s1plus": "Increases magical attack to all allies near Misato by a **large** amount, also increases their magical crit rate by a small amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/101531.webp",
-    "guild": "Forestier"
+    "image": "https://redive.estertion.win/icon/unit/101531.webp",
+    "large": "https://redive.estertion.win/card/full/101531.webp",
+    "guild": "Forestier",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "summer misato": {
     "name": "Summer Misato, Mamasato, Beach Baseball Coach",
@@ -1292,12 +1505,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113531.webp",
-    "guild": "Forestier"
+    "image": "https://redive.estertion.win/icon/unit/113531.webp",
+    "large": "https://redive.estertion.win/card/full/113531.webp",
+    "guild": "Forestier",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→S2→ATK→S1→S2→ATK→ATK→S1→S2"
 },
 "misogi": {
     "name": "Misogi",
-    "description": "An arena aoe attacker and a debuffer. Her debuffs are pretty strong. Might be worth levelling if ",
+    "description": "An arena aoe attacker and a debuffer. Her debuffs are pretty strong. Considering the fact that it targets the highest patk character and it lasts for the entirety of the battle. She's worth to consider levelling if you love arena. Not to say she's not viable for any other content.. She just shines in arena",
     "kana": "ミソギ", 
     "ubname": "Trick Bomber", 
     "ubdesc": "Medium physical damage to all enemies within range of the main target, the 2nd closest target to Misogi is chosen as the main target", 
@@ -1310,8 +1526,11 @@
     "s1plus": "Small physical to the 2nd nearest target, inflicts blind. **Additionally, all enemies within range will recieve a small physical attack debuff by a small amount.**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100431.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/100431.webp",
+    "large": "https://redive.estertion.win/card/full/100431.webp",
+    "guild": "Little Lyrical",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S1→ATK→S1"
 },
 "halloween misogi": {
     "name": "Halloween Misogi",
@@ -1328,8 +1547,11 @@
     "s1plus": "Medium physical damage to all enemies within range. **Reduces their physical attack by a medium amount. This skill deals 3x damage instead of 2x when proccing crits**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111231.webp",
-    "guild": "Little Lyrical"
+    "image": "https://redive.estertion.win/icon/unit/111231.webp",
+    "large": "https://redive.estertion.win/card/full/111231.webp",
+    "guild": "Little Lyrical",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→S1→S2→ATK→S1→ATK→S2"
 },
 "mitsuki": {
     "name": "Mitsuki",
@@ -1346,8 +1568,11 @@
     "s1plus": "inflict a curse to all enemies within range that will damage them over time. **Additionally reduces their action speed by a small amount(5%)**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105131.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/105131.webp",
+    "large": "https://redive.estertion.win/card/full/105131.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "miyako": {
     "name": "Miyako, Pudding",
@@ -1364,8 +1589,11 @@
     "s1plus": "Gains invincibility for a short period,** additionally, increase own physical defense and evasion by a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100731.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/100731.webp",
+    "large": "https://redive.estertion.win/card/full/100731.webp",
+    "guild": "Diabolos",
+    "initial": "ATK→ATK→S1→ATK→S2",
+    "loop": "ATK→ATK→S1→S2"
 },
 "miyako halloween": {
     "name": "Halloween Miyako",
@@ -1382,8 +1610,11 @@
     "s1plus": "Reduce the enemy farthest of where Miyako is TP by a small amount. Inflict stun, **Inflict fear**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108231.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/108231.webp",
+    "large": "https://redive.estertion.win/card/full/108231.webp",
+    "guild": "Diabolos",
+    "initial": "S2→S1→ATK→S2→ATK→S2→ATK→S1",
+    "loop": "ATK→S2→ATK→S2→S1→ATK→S2→ATK→S1"
 },
 "monica": {
     "name": "Monica, Monika",
@@ -1400,8 +1631,11 @@
     "s1plus": "Increase the physical and magical attack of all allies by a **large** amount, increases action speed by a **Large** amount(100%) as well", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105331.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/105331.webp",
+    "large": "https://redive.estertion.win/card/full/105331.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S1→ATK→S2",
+    "loop": "ATK→ATK→S2"
 },
 "magical monica": {
     "name": "Magical Monica, Heartly Monica.",
@@ -1418,8 +1652,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://static.wikia.nocookie.net/princess-connect/images/3/30/Icon-unit-artmgmonika.png",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/114231.webp",
+    "large": "https://redive.estertion.win/card/full/114231.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S1→ATK→S2→S1→S2",
+    "loop": "ATK→S1→S2→ATK→ATK→S1→ATK→S2"
 },
 "muimi": {
     "name": "Muimi, Hawawa, Tenrou Hadanken",
@@ -1427,17 +1664,20 @@
     "kana": "ムイミ", 
     "ubname": "Tenrou Hadanken", 
     "ubdesc": "Massive physical damage to one enemy. She then equips Tenrou Hadanken until the TP bar runs out", 
-    "s1name": "I'll Make You Cry ***Sword Equip: Rolling Slash***", 
-    "s1desc": "Small physical damage to all enemy in the front range, inflict stun and knockback ***Sword Equip: Massive physical damage to the nearest enemy***", 
-    "s2name": "Here, Here! ***Sword Equip: Flash Cut***", 
-    "s2desc": "Reduce enemies physical defense in the front range by small amount ***Sword Equip: Large physical damage to all enemies in the front range***", 
+    "s1name": "I'll Make You Cry\n「Sword Equip: Rolling Slash」", 
+    "s1desc": "Small physical damage to all enemy in the front range, inflict stun and knockback\n「Sword Equip: Massive physical damage to the nearest enemy」", 
+    "s2name": "Here, Here!\n「Sword Equip: Flash Cut」", 
+    "s2desc": "Reduce enemies physical defense in the front range by small amount\n「Sword Equip: Large physical damage to all enemies in the front range」", 
     "exname": "Potential Force", 
     "exdesc": "Medium increase to own physical attack power at the start of battle **5★: Large increase to own physical attack power at the start of battle**", 
-    "s1plus": "Medium physical damage to all enemy in the front range, inflict stun and knockback ***Sword Equip: Massive physical damage to the nearest enemy***", 
+    "s1plus": "Medium physical damage to all enemy in the front range, inflict stun and knockback\n「Sword Equip: Massive physical damage to the nearest enemy」", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/106131.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/106131.webp",
+    "large": "https://redive.estertion.win/card/full/106131.webp",
+    "guild": "",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→ATK→S1→ATK→S2→S1\nS1→S2"
 },
 "nanaka": {
     "name": "Nanaka",
@@ -1454,8 +1694,11 @@
     "s1plus": "Reduce all enemies in front range magical defense by **medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/101331.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/101331.webp",
+    "large": "https://redive.estertion.win/card/full/101331.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→S2→ATK"
 },
 "summer nanaka": {
     "name": "Summer Nanaka",
@@ -1472,8 +1715,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113331.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/113331.webp",
+    "large": "https://redive.estertion.win/card/full/113331.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S2→ATK→S1"
 },
 "neneka": {
     "name": "Neneka",
@@ -1490,8 +1736,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107031.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/107031.webp",
+    "large": "https://redive.estertion.win/card/full/107031.webp",
+    "guild": "",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→ATK→S2→S1→ATK→ATK→S1→S2→ATK→S1"
 },
 "ninon": {
     "name": "Ninon, Weeb",
@@ -1508,8 +1757,11 @@
     "s1plus": "Small physical damage to all enemies at the front range, restore own TP if enemies are defeated by this skill by **massive amount**", 
     "upgrade": "Ninja Arts・Blazing Flame Tornado", 
     "upgradedesc": "Large physical damage to all enemies within range and increase to own physical attack power by large amount, restore own TP by small amount, increase the amount of buff and TP restored based on how many enemies defeated", 
-    "image": "https://flatisjustice.moe/priconne/unit/103061.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/103061.webp",
+    "large": "https://redive.estertion.win/card/full/103061.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "ooedo ninon": {
     "name": "Ooedo Ninon, Ooninon, Onion",
@@ -1526,8 +1778,11 @@
     "s1plus": "Medium physical damage to the nearest enemy,reduce enemy physical defense by small amount, **if critical, deal three times damage instead of twice damage**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109631.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/109631.webp",
+    "large": "https://redive.estertion.win/card/full/109631.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S2→S1→ATK",
+    "loop": "S2→S1→ATK→S1"
 },
 "nozomi": {
     "name": "Nozomi",
@@ -1544,12 +1799,15 @@
     "s1plus": "Medium physical attack to all enemies in the front range, inflict two seconds stun, **reduce enemy physical attack by small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102931.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/102931.webp",
+    "large": "https://redive.estertion.win/card/full/102931.webp",
+    "guild": "Carmina",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→S1"
 },
 "christmas nozomi": {
     "name": "Christmas Nozomi",
-    "description": "A weird defensive buffer. She's not supposed to be a tank. But you can do as you want. I would put her in defensive arena probably. Sounds like the right place to put her if you have her.",
+    "description": "A weird defensive buffer. She's not supposed to be a tank. But she can act as a sub tank probably. She can work with some weird setup",
     "kana": "ノゾミ（クリスマス）", 
     "ubname": "Ride On Christmas", 
     "ubdesc": "Increase all allies physical defense by small amount, increase buff amount based on how many allies behind Nozomi", 
@@ -1562,8 +1820,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111631.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/111631.webp",
+    "large": "https://redive.estertion.win/card/full/111631.webp",
+    "guild": "Carmina",
+    "initial": "S1",
+    "loop": "S2→ATK→ATK→S2→ATK→ATK→S2→ATK→ATK→S1"
 },
 "pecorine": {
     "name": "Pecorine, Aho-rine",
@@ -1580,8 +1841,11 @@
     "s1plus": "Heals herself by a small amount, increase own magical defense by a small amount, **deploy a physical and magical damage absorption barrier**", 
     "upgrade": "Princess Valiant", 
     "upgradedesc": "Deals **massive** physical damage to the nearest enemy. **Boost own Physical and magical defense by a large amount, increase own physical attack power according to remaining HP. The higher the HP, the better the buff**", 
-    "image": "https://flatisjustice.moe/priconne/unit/105861.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/105861.webp",
+    "large": "https://redive.estertion.win/card/full/105861.webp",
+    "guild": "Bishoukuden",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "princess pecorine": {
     "name": "Princess Pecorine, PPeco",
@@ -1598,12 +1862,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/180431.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/180431.webp",
+    "large": "https://redive.estertion.win/card/full/180431.webp",
+    "guild": "Bishoukuden",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→ATK→S1→S2→ATK→S1→ATK→S2→S1"
 },
 "summer pecorine": {
     "name": "Summer Pecorine",
-    "description": "an arena character. Peco this time becomes a bit squishy. But she does have really powerful aoe skils to make up for the loss in chonkiness.",
+    "description": "an arena character. Peco this time becomes a alot squishier. But she does have really powerful aoe skils to make up for the loss in chonkiness.",
     "kana": "ペコリーヌ（サマー）", 
     "ubname": "Princess Splash", 
     "ubdesc": "Large physical damage to all enemies within range", 
@@ -1616,8 +1883,11 @@
     "s1plus": "Increase physical attack power by massive amount, critical rate increase by a large amount, **and reduce own magical defense by a medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107531.webp",
-    "guild": "Bishoukuden"
+    "image": "https://redive.estertion.win/icon/unit/107531.webp",
+    "large": "https://redive.estertion.win/card/full/107531.webp",
+    "guild": "Bishoukuden",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→ATK→S1→S2→ATK→ATK→S1→ATK→S2"
 },
 "ram": {
     "name": "Ram",
@@ -1634,8 +1904,11 @@
     "s1plus": "**Massive** magical damage to the nearest enemy and large knockback if enemy is immobilized if not immobilized, deal **Large** magical damage and inflict small knockback instead", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109831.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109831.webp",
+    "large": "https://redive.estertion.win/card/full/109831.webp",
+    "guild": "",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "rem": {
     "name": "Who?",
@@ -1652,8 +1925,11 @@
     "s1plus": "**Medium** physical damage to **an area around the nearest enemy**, inflicts freeze", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109731.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109731.webp",
+    "large": "https://redive.estertion.win/card/full/109731.webp",
+    "guild": "",
+    "initial": "S1→ATK→S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "rei": {
     "name": "Rei",
@@ -1670,8 +1946,11 @@
     "s1plus": "Medium physical damage to the nearest enemy **and lowers target's physical defense by a small amount**", 
     "upgrade": "Slash Temptest", 
     "upgradedesc": "Massive physical damage to the nearest enemy. Gains a unique buff 'Blade of Wind', while having this buff, the value of Rei's skill is doubled", 
-    "image": "https://flatisjustice.moe/priconne/unit/100361.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/100361.webp",
+    "large": "https://redive.estertion.win/card/full/100361.webp",
+    "guild": "Twinkle Wish",
+    "initial": "ATK→S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "halloween rei": {
     "name": "Halloween Rei",
@@ -1688,8 +1967,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://static.wikia.nocookie.net/princess-connect/images/5/51/Icon-unit-arthrei.png",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/114031.webp",
+    "large": "https://redive.estertion.win/card/full/114031.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→ATK→S2→S1→ATK→S1"
 },
 "new year rei": {
     "name": "New Year Rei, NY Rei",
@@ -1706,8 +1988,11 @@
     "s1plus": "Provoke all enemies, counter all enemies that attack during counter stance, deal medium physical damage to all enemies in the front range and reduce enemies physical defense by small amount, **increase own magical defense by large amount, inflict stun**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108931.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/108931.webp",
+    "large": "https://redive.estertion.win/card/full/108931.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S1→S2",
+    "loop": "S1→ATK→S2→ATK"
 },
 "rima": {
     "name": "Rima, Watame",
@@ -1724,12 +2009,15 @@
     "s1plus": "At the start of battle she will rush through to the frontline, deal medium physical damage to one enemy at the front, increase own physical defense by large amount **and grants physical nullification barrier to all allies**", 
     "upgrade": "Merry Wool Strike", 
     "upgradedesc": "Large physical damage to all enemies in the front range, inflict knockback, increase own physical defense by massive amount, and grants physical nullification barrier to all allies", 
-    "image": "https://flatisjustice.moe/priconne/unit/105261.webp",
-    "guild": "Elizabeth Farm"
+    "image": "https://redive.estertion.win/icon/unit/105261.webp",
+    "large": "https://redive.estertion.win/card/full/105261.webp",
+    "guild": "Elizabeth Farm",
+    "initial": "S1",
+    "loop": "ATK→S2"
 },
 "rin": {
     "name": "Rin",
-    "description": "Sub Tank and Sub healer. She's anti magical like Yukari. But not as powerful as Yukari. Though she does buff magical defense faster than Yukari. And she is pretty useful sometimes Would level her once you're done with the cores in dungeon shop.",
+    "description": "Sub Tank and Sub healer. She's anti magical like Yukari. But not as powerful as Yukari. Though she does buff magical defense faster than Yukari, instantly. She also buffs physical team's damage as compared to Yukari's TP buff.",
     "kana": "リン", 
     "ubname": "Handmade Redbean Paste Bun Charge", 
     "ubdesc": "Restore all allies HP by small amount, increase all allies physical attack power by small amount, increase all allies magical defense by small amount", 
@@ -1742,15 +2030,18 @@
     "s1plus": "Increase all allies near Rin magical defense by large amount **and increase all allies near Rin physical attack power by medium amount, increase all allies near Rin critical rate by small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102631.webp",
-    "guild": "Elizabeth Farm"
+    "image": "https://redive.estertion.win/icon/unit/102631.webp",
+    "large": "https://redive.estertion.win/card/full/102631.webp",
+    "guild": "Elizabeth Farm",
+    "initial": "S1→S2→ATK",
+    "loop": "S1→ATK→S1→S2→ATK→ATK→S1→ATK→S2"
 },
 "ranger rin": {
     "name": "Ranger Rin, Nut Destroyer",
-    "description": "AOE attacker/Debuffer. She can deal damage. Not up to par with other aoe attacker. But she can do nice damage as long as you ca remove the action speed down she places on herself",
+    "description": "AOE attacker/Debuffer. She's actually pretty useful in arena and Luna tower. As she just debuffs most of the enemies there. She just needs an action speed up. Or if you're not lazy, you can cancel her S1 with UB if that's an option. Action speed debuff applies late on the skill.",
     "kana": "リン（レンジャー）", 
     "ubname": "Nuts Execution", 
-    "ubdesc": "Medium physical damage to all enemies within front range and reduce enemies physical defense by small amount", 
+    "ubdesc": "Medium physical damage to all enemies within front range and reduce enemies physical defense by medium amount", 
     "s1name": "Nuts Breaker", 
     "s1desc": "Medium physical damage to all enemies within front range, reduce enemies physical defense by medium amount, and reduce own action speed by large amount", 
     "s2name": "Nuts Slash", 
@@ -1760,12 +2051,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112731.webp",
-    "guild": "Elizabeth Farm"
+    "image": "https://redive.estertion.win/icon/unit/112731.webp",
+    "large": "https://redive.estertion.win/card/full/112731.webp",
+    "guild": "Elizabeth Farm",
+    "initial": "S1→S2",
+    "loop": "S2→ATK→S2→ATK→S2→ATK→ATK"
 },
 "imas rin": {
     "name": "The Better Rin",
-    "description": "a tank that has a small def down for both physical and magical parties. She's honestly only good in Arena. But UE might change that. It's gonna be a long way before that happens though.",
+    "description": "A tank that has a small def down for both physical and magical parties. She's honestly only good in Arena. Bind is always pretty good",
     "kana": "リン（デレマス）", 
     "ubname": "Iolite Blue", 
     "ubdesc": "Large physical damage to the nearest enemy and gain physical and magical nullification barrier", 
@@ -1778,8 +2072,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112531.webp",
-    "guild": "Deremasu"
+    "image": "https://redive.estertion.win/icon/unit/112531.webp",
+    "large": "https://redive.estertion.win/card/full/112531.webp",
+    "guild": "Deremasu",
+    "initial": "S2→S1→ATK",
+    "loop": "S2→ATK→S1→ATK"
 },
 "rino": {
     "name": "Rare imouto",
@@ -1796,8 +2093,11 @@
     "s1plus": "Increase own physical attack power by large amount, increase own physical critical rate by medium amount, **and increase own action speed by large amount**", 
     "upgrade": "Corona Rain", 
     "upgradedesc": "Large physical damage to all enemies within rangeif critical, deals three point five times damage instead of two times", 
-    "image": "https://flatisjustice.moe/priconne/unit/101161.webp",
-    "guild": "Labyrinth"
+    "image": "https://redive.estertion.win/icon/unit/101161.webp",
+    "large": "https://redive.estertion.win/card/full/101161.webp",
+    "guild": "Labyrinth",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "wonder rino": {
     "name": "Wonderland Rino",
@@ -1814,8 +2114,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112931.webp",
-    "guild": "Labyrinth"
+    "image": "https://redive.estertion.win/icon/unit/112931.webp",
+    "large": "https://redive.estertion.win/card/full/112931.webp",
+    "guild": "Labyrinth",
+    "initial": "S1→S2",
+    "loop": "S1→ATK→S2→ATK→S1→ATK→S2→ATK→ATK"
 },
 "ruka": {
     "name": "Ruka",
@@ -1832,8 +2135,11 @@
     "s1plus": "Taunt enemies, if attacked during stance, counter attack with large physical damage to all enemies, inflict knockback, **reduce enemy physical defense by small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105631.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/105631.webp",
+    "large": "https://redive.estertion.win/card/full/105631.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→ATK→S1→S2"
 },
 "summer ruka": {
     "name": "Summer Ruka, SRuka",
@@ -1850,8 +2156,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113131.webp",
-    "guild": "Twilight Caravan"
+    "image": "https://redive.estertion.win/icon/unit/113131.webp",
+    "large": "https://redive.estertion.win/card/full/113131.webp",
+    "guild": "Twilight Caravan",
+    "initial": "S1→ATK→ATK→S1→ATK→S2",
+    "loop": "S1→ATK→S2→ATK→S1→ATK→S2"
 },
 "ruu": {
     "name": "Ruu",
@@ -1868,8 +2177,11 @@
     "s1plus": "**Ruu summons 2 Omeme-chan and buff her own magical attack by small amount**. When Ruu takes damage, Omeme-chan runs away, but the attacking enemy takes damage by medium amount", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109331.webp",
-    "guild": ""
+    "image": "https://redive.estertion.win/icon/unit/109331.webp",
+    "large": "https://redive.estertion.win/card/full/109331.webp",
+    "guild": "",
+    "initial": "S1→S1",
+    "loop": "ATK→S2→ATK→S1"
 },
 "saren": {
     "name": "Saren, ",
@@ -1886,8 +2198,11 @@
     "s1plus": "Medium physical damage to all enemies in the front position, **damage increased based on how low Saren's HP**", 
     "upgrade": "End of Phoenix", 
     "upgradedesc": "Large physical damage to all enemies in the front range, increase all allies physical and magical attack power by large amount and increase damage and buff attack power based on how low Saren's HP,", 
-    "image": "https://flatisjustice.moe/priconne/unit/102861.webp",
-    "guild": "Sarendia Orphaage"
+    "image": "https://redive.estertion.win/icon/unit/102861.webp",
+    "large": "https://redive.estertion.win/card/full/102861.webp",
+    "guild": "Sarendia Orphaage",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "summer saren": {
     "name": "Summer Saren, SSaren, Mama Saren",
@@ -1904,8 +2219,11 @@
     "s1plus": "Increase own physical attack power by medium amount at the start of battle **5★: Increase own physical attack power by large amount at the start of battle**", 
     "upgrade": "Restore to all allies TP by large amount, **increase to all allies physical and magical attack power by large amount**", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110331.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/110331.webp",
+    "large": "https://redive.estertion.win/card/full/110331.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S1→ATK→S2",
+    "loop": "ATK→ATK→S2"
 },
 "shinobu": {
     "name": "Shinobu",
@@ -1922,8 +2240,11 @@
     "s1plus": "Summon a skull in front of Shinobu, attacks one enemy in the front, **increase to all front-range allies physical defense and physical critical rate by medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/103131.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/103131.webp",
+    "large": "https://redive.estertion.win/card/full/103131.webp",
+    "guild": "Diabolos",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "halloween shinobu": {
     "name": "Halloween Shinobu",
@@ -1940,8 +2261,11 @@
     "s1plus": "Increase own physical attack power by massive amount **and increase own critical rate by large amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108131.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/108131.webp",
+    "large": "https://redive.estertion.win/card/full/108131.webp",
+    "guild": "Diabolos",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→S2→S2→ATK→S1→ATK→S2"
 },
 "shiori": {
     "name": "Shiori, Shiorin",
@@ -1958,8 +2282,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/103831.webp",
-    "guild": "Former: Caon, Elizabeth Park"
+    "image": "https://redive.estertion.win/icon/unit/103831.webp",
+    "large": "https://redive.estertion.win/card/full/103831.webp",
+    "guild": "Former: Caon, Elizabeth Park",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "magical shiori": {
     "name": "Magical Shiori, Purely★Shiori.",
@@ -1976,12 +2303,15 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112331.webp",
-    "guild": "Former: Caon, Elizabeth Park"
+    "image": "https://redive.estertion.win/icon/unit/112331.webp",
+    "large": "https://redive.estertion.win/card/full/112331.webp",
+    "guild": "Former: Caon, Elizabeth Park",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "shizuru": {
     "name": "Onee-Chan",
-    "description": "A sub tank/Main tank if you wanna go that route. The only usable Vanguard if you wanna bring her for a tank is Christina. Honestly would benefit her more if she was more to the front since she gets to take more damage and use her UB more often. Her UB has a really good regen on it. Better than even Jesus Yui's",
+    "description": "A sub tank/Main tank if you wanna go that route. The only usable Vanguard if you wanna bring her for a tank is Christina. Otherwise she'll stay at the back and heal your midguard and vanguard. You can bring Saren in with Christina and Shizuru will get the TP buff which is pretty good",
     "kana": "シズル", 
     "ubname": "Sacred Punishment", 
     "ubdesc": "Large physical damage to the nearest enemy, gain physical absorption barrier, doesnt apply any shield if missed", 
@@ -1994,8 +2324,11 @@
     "s1plus": "Restore one ally HP with lowest HP by medium amount **and increase ally physical defense by large amount**", 
     "upgrade": "Sacred Beyond", 
     "upgradedesc": "Massive physical damage to the nearest enemy, increase physical defense  by massive amount to nearby allies, grants physical absorption barrier and grant HP regen to all nearby allies", 
-    "image": "https://flatisjustice.moe/priconne/unit/104961.webp",
-    "guild": "Labyrinth"
+    "image": "https://redive.estertion.win/icon/unit/104961.webp",
+    "large": "https://redive.estertion.win/card/full/104961.webp",
+    "guild": "Labyrinth",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→ATK→S1→ATK→ATK→S2→ATK→S1"
 },
 "valentine shizuru": {
     "name": "Valentine Shizuru, VShizuru, Valentine Onee-chan",
@@ -2012,12 +2345,15 @@
     "s1plus": "Restore all allies HP by medium amount and TP by small amount ***If field is active: Restore all allies HP by medium amount and TP by small amount and Increase all allies physical attack power by large amount***", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/109131.webp",
-    "guild": "Labyrinth"
+    "image": "https://redive.estertion.win/icon/unit/109131.webp",
+    "large": "https://redive.estertion.win/card/full/109131.webp",
+    "guild": "Labyrinth",
+    "initial": "S2→ATK→S1",
+    "loop": "ATK→S2→S1→ATK→ATK→S2→ATK→S1→ATK→S2→S1"
 },
 "suzume": {
     "name": "Suzume",
-    "description": "Just don't bother. She's beyond saving at this point really. Bad stats. and bad skills. She just doesn't fit into any party.",
+    "description": "Bad skills. She just doesn't fit into any party.",
     "kana": "スズメ", 
     "ubname": "Wind Stream", 
     "ubdesc": "Medium magical damages to all enemies in the front range and reduce enemies physical defense by random amount, small to medium based on her UB animation", 
@@ -2030,8 +2366,11 @@
     "s1plus": "Small magical damage to all enemies in the front range **and reduce enemies physical and magical defense by small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102531.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/102531.webp",
+    "large": "https://redive.estertion.win/card/full/102531.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→ATK→S1→ATK→S1"
 },
 "new year suzume": {
     "name": "New Year Suzume",
@@ -2048,8 +2387,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112131.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/112131.webp",
+    "large": "https://redive.estertion.win/card/full/112131.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S2→S1→ATK→S2",
+    "loop": "ATK→S1→ATK→ATK→S1→S2→ATK"
 },
 "summer suzume": {
     "name": "Summer Suzume",
@@ -2066,12 +2408,15 @@
     "s1plus": "Summon a golem, attack one enemy at the front **and deploy a field centered on the most front allies, increase physical and magical defense by large amount to allies within range**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107731.webp",
-    "guild": "Sarendia Orphanage"
+    "image": "https://redive.estertion.win/icon/unit/107731.webp",
+    "large": "https://redive.estertion.win/card/full/107731.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2→ATK→ATK→ATK→S1→ATK→S2"
 },
 "suzuna": {
     "name": "Suzuna, Best Girl",
-    "description": "That's me.",
+    "description": "That's me. Low crit rate. Good skills.",
     "kana": "スズナ", 
     "ubname": "Heart Break", 
     "ubdesc": "Large physical damage to the nearest enemy, guaranteed critical hit on initial use", 
@@ -2084,8 +2429,11 @@
     "s1plus": "Large physical damage three times to the nearest enemy, if critical, **deal three times damage instead of two times, one of the damage is guaranteed critical hit**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/101631.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/101631.webp",
+    "large": "https://redive.estertion.win/card/full/101631.webp",
+    "guild": "Lucent Academy",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer suzuna": {
     "name": "Summer Suzuna,Best girl",
@@ -2102,8 +2450,11 @@
     "s1plus": "Small physical damage three times to the nearest enemy **and increase own physical attack power by medium amount, this skill will never miss and always deal critical damage**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/110031.webp",
-    "guild": "Lucent Academy"
+    "image": "https://redive.estertion.win/icon/unit/110031.webp",
+    "large": "https://redive.estertion.win/card/full/110031.webp",
+    "guild": "Lucent Academy",
+    "initial": "S1→ATK→S1→ATK→S1→ATK→S1→ATK→S1→S2",
+    "loop": "S1→ATK"
 },
 "tamaki": {
     "name": "Tamaki",
@@ -2120,8 +2471,11 @@
     "s1plus": "Medium physical damage to one enemy with highest magical attack power and reduce enemy magical attack power by medium amount, **inflict stun**", 
     "upgrade": "Neko-Neko Phantom Rush", 
     "upgradedesc": "Massive physical damage to one enemy with highest magical attack power, if the target is magical attacker deal additional large physical damage reduce enemy physical defense by massive amount", 
-    "image": "https://flatisjustice.moe/priconne/unit/104661.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/104661.webp",
+    "large": "https://redive.estertion.win/card/full/104661.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "summer tamaki": {
     "name": "Summer Tamaki",
@@ -2138,8 +2492,11 @@
     "s1plus": "Reduce earest enemy's tp by small amount, restore own TP by small amount, **reduce enemy physical attack by large amount, and increase own physical attack power by massive amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/107931.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/107931.webp",
+    "large": "https://redive.estertion.win/card/full/107931.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S2→S1→ATK",
+    "loop": "S2→ATK→ATK→S1→ATK→S2→ATK→ATK"
 },
 "tomo": {
     "name": "Tomo",
@@ -2156,8 +2513,32 @@
     "s1plus": "Medium physical attack to all enemies within range **and increase damage based on number of enemies**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/103731.webp",
-    "guild": "Nightmare"
+    "image": "https://redive.estertion.win/icon/unit/103731.webp",
+    "large": "https://redive.estertion.win/card/full/103731.webp",
+    "guild": "Nightmare",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→S1→S1→ATK"
+},
+"magical tomo": {
+    "name": "Magical Tomo, Shiny Tomo",
+    "description": "Magical/Physical Single target attacker? She does both. Magical for UB and Skills, Physical attack on normal attack. Normal attacks are based on Physical crit. Magical Crits only affects her Skills and UB. She starts with 0 M crit. But gains 150 every S2. Fortunately her S2 Mcrit buff is perma for the battle. Only the mcrit. Everything else is 12S Her UB has **VERY HIGH** Multipliers",
+    "kana": "トモ（マジカル）", 
+    "ubname": "Shiny Aqua Stream", 
+    "ubdesc": "Massive amount of magical damage based on her Magical attack and Physical attack to the nearest enemy", 
+    "s1name": "Shiny Blade", 
+    "s1desc": "Medium amount of magical damage based on her Magical attack and Physical attack to the nearest enemy", 
+    "s2name": "Shiny Aqua", 
+    "s2desc": "Large increase in own physical attack and magical crit, also boosts by a large amount(50%)", 
+    "exname": "Shiny Attitude", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle. **", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/103731.webp",
+    "large": "https://redive.estertion.win/card/full/103731.webp",
+    "guild": "Nightmare",
+    "initial": "S2→S1",
+    "loop": "ATK→S1→S2→S1→ATK→S1→S2→ATK→S1"
 },
 "tsumugi": {
     "name": "Tsumugi",
@@ -2174,8 +2555,11 @@
     "s1plus": "Medium physical damage to one enemy at 2nd most front, pull them closer **and inflict stun, increase own physical attack power by medium amount, and increase own physical defense by small amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/105431.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/105431.webp",
+    "large": "https://redive.estertion.win/card/full/105431.webp",
+    "guild": "Carmina",
+    "initial": "S1→ATK→S2",
+    "loop": "ATK→ATK→S2→ATK→ATK→S2→ATK→S1"
 },
 "halloween tsumugi": {
     "name": "Halloween Tsumugi",
@@ -2192,8 +2576,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113931.webp",
-    "guild": "Carmina"
+    "image": "https://redive.estertion.win/icon/unit/113931.webp",
+    "large": "https://redive.estertion.win/card/full/113931.webp",
+    "guild": "Carmina",
+    "initial": "S2→S1→ATK→S2",
+    "loop": "S1→ATK→S2→ATK→S1→ATK→S2"
 },
 "uzuki": {
     "name": "Uzuki",
@@ -2210,8 +2597,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/112431.webp",
-    "guild": "Deremasu"
+    "image": "https://redive.estertion.win/icon/unit/112431.webp",
+    "large": "https://redive.estertion.win/card/full/112431.webp",
+    "guild": "Deremasu",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "yori": {
     "name": "Yori",
@@ -2228,8 +2618,11 @@
     "s1plus": "Consume her own HP and increase her magical attack power by massive amount **and recover own TP by medium amount**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/102231.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/102231.webp",
+    "large": "https://redive.estertion.win/card/full/102231.webp",
+    "guild": "Diabolos",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "angel yori": {
     "name": "Angel Yori",
@@ -2246,8 +2639,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/113831.webp",
-    "guild": "Diabolos"
+    "image": "https://redive.estertion.win/icon/unit/113831.webp",
+    "large": "https://redive.estertion.win/card/full/113831.webp",
+    "guild": "Diabolos",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→S1→S2→ATK→S2→S1→ATK→S2"
 },
 "yui": {
     "name": "Yui",
@@ -2264,8 +2660,11 @@
     "s1plus": "Medium magical damage to the nearest enemy, **also reduces their physical attack by a small amount**", 
     "upgrade": "Flowering Heal", 
     "upgradedesc": "Heals all allies by a **large** amount,** boost their Physical defense by a large amount, increases all allies' action speed by a large amount(100%) and deploys a barrier that blocks a large amount of physical damage**", 
-    "image": "https://flatisjustice.moe/priconne/unit/100261.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/100261.webp",
+    "large": "https://redive.estertion.win/card/full/100261.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S2→S1",
+    "loop": "ATK→ATK→S2→ATK→S1→ATK→ATK→S1"
 },
 "new year yui": {
     "name": "New Year Yui, Jesus Yui, DORIME",
@@ -2282,8 +2681,11 @@
     "s1plus": "Lowers the second nearest ememy's physical attack and magical attack by a small amount, **magical defense by a small amount and medium amount of TP fill rate**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/108831.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/108831.webp",
+    "large": "https://redive.estertion.win/card/full/108831.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S2→S1→ATK→S2→ATK→S1",
+    "loop": "S2→ATK→S1→ATK→S2→ATK→S1"
 },
 "princess yui": {
     "name": "Princess Yui",
@@ -2300,8 +2702,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/180231.webp",
-    "guild": "Twinkle Wish"
+    "image": "https://redive.estertion.win/icon/unit/180231.webp",
+    "large": "https://redive.estertion.win/card/full//180231.webp",
+    "guild": "Twinkle Wish",
+    "initial": "S1→S2→ATK",
+    "loop": "S1→ATK→S2→ATK→S1→ATK→S2→ATK→ATK→S1→ATK→S2"
 },
 "yukari": {
     "name": "Yukari, Onee-San",
@@ -2318,8 +2723,11 @@
     "s1plus": "Heal one ally HP with the lowest HP by large amount, **increase to magical defense to given ally by medium amount, grant HP regen to given ally**", 
     "upgrade": "Seven Haven", 
     "upgradedesc": "Grant magical nullification barrier to all allies, increase all allies magic defense by large amount, restore all allies HP by small amount", 
-    "image": "https://flatisjustice.moe/priconne/unit/103461.webp",
-    "guild": "Mercurius Foundation"
+    "image": "https://redive.estertion.win/icon/unit/103461.webp",
+    "large": "https://redive.estertion.win/card/full/103461.webp",
+    "guild": "Mercurius Foundation",
+    "initial": "S2→ATK→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
 },
 "yuki": {
     "name": "Yuki",
@@ -2336,8 +2744,11 @@
     "s1plus": "Small magical damage to the 2nd closest enemy and inflicts blind **and charm**", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/100831.webp",
-    "guild": "Weiße Flügel"
+    "image": "https://redive.estertion.win/icon/unit/100831.webp",
+    "large": "https://redive.estertion.win/card/full/100831.webp",
+    "guild": "Weiße Flügel",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→S2"
 },
 "yuni": {
     "name": "Yuni",
@@ -2354,7 +2765,10 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://flatisjustice.moe/priconne/unit/111031.webp",
-    "guild": "St. Theresa Girls' Academy(Buddy Club)"
+    "image": "https://redive.estertion.win/icon/unit/111031.webp",
+    "large": "https://erediv.estertion.win/card/full/111031.webp",
+    "guild": "St. Theresa Girls' Academy(Buddy Club)",
+    "initial": "S1→S2→ATK",
+    "loop": "S1→ATK→S2→ATK→ATK"
 }
 }

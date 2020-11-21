@@ -17,7 +17,7 @@ module.exports = {
         
         embed.setTitle('Yo!');
         embed.setTimestamp(Date.now());
-        embed.setDescription('Temporarily disabled charlist here for now. Use guild instead. Will work on it soon-ish');
+        embed.setDescription('You can now click on the name for a link to the full card! This is to fit in more text and also save banwidth if you\'re on a limited quota');
         embed.setColor('#FFB9B9');
         embed.setFooter("Suzuna-Chan","https://i.imgur.com/jNqJW4V.png");
         var args_lower = args.join(' ').toLowerCase();
@@ -27,15 +27,17 @@ module.exports = {
             embed.setTimestamp(Date.now());
             embed.setDescription(CharaItem.description || "This is not supposed to show up. Make sure to make it an issue in the github page so I know that this is a problem");
             embed.setTitle(CharaItem.kana || 'No known aliases');
-            embed.setThumbnail(CharaItem.image);
+            embed.setURL(CharaItem.large);
             embed.setFooter(CharaItem.guild || 'No Guild','https://i.imgur.com/jNqJW4V.png');
             embed.addFields(
                 { name: "UB: "+CharaItem.ubname, value: CharaItem.ubdesc},
                 { name: "S1: "+CharaItem.s1name, value: CharaItem.s1desc, inline: true},
                 { name: "S2: "+CharaItem.s2name, value: CharaItem.s2desc, inline: true},
                 { name: "EX: "+CharaItem.exname, value: CharaItem.exdesc, inline: true},
-                { name: "S1+: "+CharaItem.s1name+'+', value: CharaItem.s1plus || 'Soon:tm:', inline: true},
-                { name: '6★ UB: '+(CharaItem.upgrade || 'Not yet implemented'), value: CharaItem.upgradedesc || "Not yet implemented"}
+                { name: "S1+: "+CharaItem.s1name+"+", value: CharaItem.s1plus || "Soon:tm:", inline: true},
+                { name: "6★ UB: "+(CharaItem.upgrade || "Not yet implemented"), value: CharaItem.upgradedesc || "Not yet implemented"},
+                { name: "Initial Loop: ", value: CharaItem.initial|| "too lazy to write", inline: true},
+                { name: "Loop Pattern: ", value: CharaItem.loop || "too lazy to write", inline: true}
             );
         }
         message.channel.send(embed);
