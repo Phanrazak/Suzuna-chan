@@ -80,7 +80,7 @@
     "image": "https://redive.estertion.win/icon/unit/114431.webp",
     "large": "https://redive.estertion.win/card/full/114431.webp",
     "guild": "Mercurius Foundation",
-    "initial": "S1→S2→",
+    "initial": "S1→S2→ATK",
     "loop": "S2→ATK→S2→ATK→S2→ATK→S2"
 },
 "anna": {
