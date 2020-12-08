@@ -2450,8 +2450,8 @@
     "s1plus": "Large physical damage three times to the nearest enemy, if critical, **deal three times damage instead of two times, one of the damage is guaranteed critical hit**", 
     "upgrade": "Haute Couture Heart", 
     "upgradedesc": "Increases physical critical damage by 25%. Massive amount of physical damage to the nearest enemy, first hit is guaranteed critical hit. (buff is procced before the damage is dealt)", 
-    "image": "https://redive.estertion.win/icon/unit/101631.webp",
-    "large": "https://redive.estertion.win/card/full/101631.webp",
+    "image": "https://redive.estertion.win/icon/unit/101661.webp",
+    "large": "https://redive.estertion.win/card/full/101661.webp",
     "guild": "Lucent Academy",
     "initial": "S2→S1",
     "loop": "ATK→ATK→S2→ATK→S1"
