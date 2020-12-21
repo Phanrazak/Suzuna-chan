@@ -2246,6 +2246,27 @@
     "initial": "S1→ATK→S2",
     "loop": "ATK→ATK→S2"
 },
+"christmas saren": {
+    "name": "Christmas Saren",
+    "description": "A tank, healer and buffer. First and foremost as a tank, She does pretty well. Looking at 35k HP at 3★ max level. High enough mdef and pdef. But would still welcome some defensive buffs if you're fighting against heavy sided.\nAs a healer, she's okay. Don't expect it to do everything. It's a single target heal, and she's not focused on being a healer.\n As a buffer. She does pretty well too. She gets 100% uptime on her S1. Buffs for both physical and magical team. So you can put her anywhere.",
+    "kana": "サレン（クリスマス）", 
+    "ubname": "Shield of Garden", 
+    "ubdesc": "Large physical attack to a random enemy 3 times. Boost physical and magical attacm by a medium amount. and applies 3 Shield of Light buffs to herself (Stacks up to 5)「Shield takes damage in place of saren and deals medium Pure damage back, pure damage ignores defense」", 
+    "s1name": "Amazing Gift", 
+    "s1desc": "Large physical and magical attack boost and large physical and magical defense to all allies in an area around her", 
+    "s2name": "Luminous Bullet", 
+    "s2desc": "Medium physical damage to a random enemy 3 times. Heals the lowest health ally for a large amount",
+    "exname": "Silent Blaze", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Medium increase to own physical defense at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/114531.webp",
+    "large": "https://redive.estertion.win/card/full/114531.webp",
+    "guild": "Sarendia Orphanage",
+    "initial": "S1→ATK→S2", 
+    "loop": "S1→ATK→S2→S1→ATK→S2→ATK" 
+},
 "shinobu": {
     "name": "Shinobu",
     "description": "An AOE debuffer. With damage and a decent physical buff. She also summons a skull that almost always conveniently lines up with most bosses' powerful attack timing. Worth the level on her",
