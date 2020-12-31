@@ -4,7 +4,7 @@
         "guild1":"Bishokuden", 
             "value1": "Pecorine\nSummer Pecorine\nPrincess Pecorine\nKyaru\nSummer Kyaru\nNew Year Kyaru\nKokkoro\nNew Year Kokkoro\nSummer Kokkoro\nPrincess Kokkoro",
         "guild2":"Twinkle Wish", 
-            "value2": "Yui\nNew Year Yui\nPrincess Yui\nRei\nNew Year Rei\nHalloween Rei\nHiyori\nNew Year Hiyori",
+            "value2": "Yui\nNew Year Yui\nPrincess Yui\nRei\nNew Year Rei\nHalloween Rei\nHiyori\nNew Year Hiyori\nPrincess Hiyori",
         "guild3":"Labyrinth", 
             "value3": "Labyrinth\nShizuru\nValentine Shizuru\nRino\nWonder Rino",
         "guild4":"Carmina", 
@@ -39,7 +39,7 @@
         "guild8":"Dragon's Nest", 
             "value8": "Inori\nKaya\n~~Homare~~",
         "guild9":"No Guild", 
-            "value9": "Djeeta\nArisa\nMuimi\nNeneka\nLuna\nAnne\nGrea\nRuu\nEmilia\nRam\nRem\nUzuki\nMio\nImas Rin"
+            "value9": "Djeeta\nArisa\nMuimi\nNew Year Muimi\nNeneka\nLuna\nAnne\nGrea\nRuu\nEmilia\nRam\nRem\nUzuki\nMio\nImas Rin"
    },
    "three":{
     "page": "3",
