@@ -1740,7 +1740,7 @@
     "large": "https://redive.estertion.win/card/full/114731.webp",
     "guild": "",
     "initial": "S1→S2",
-    "loop": "ATK→S2→S1→ATK→S2→ATK→S1→ATK→ATK→S2→ATK"
+    "loop": "S2→ATK→S2→ATK→S2"
 },
 "nanaka": {
     "name": "Nanaka",
