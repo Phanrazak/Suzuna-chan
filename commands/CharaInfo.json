@@ -1952,6 +1952,27 @@
     "initial": "S1→S2",
     "loop": "ATK→S1→ATK→ATK→S1→S2→ATK→ATK→S1→ATK→S2"
 },
+"new year pecorine": {
+    "name": "New Year Pecorine, NYPeco",
+    "description": "Physical Attacker/Buffer. She follows the same traits of other Peco version, skills with HP as the modifier and low crit rate. Her UB has a 500% damage modifier depending on remaining HP, her S1 adds 9% of her HP has self buff and 5% to the party wide buff, Her S2 adds 200% of her hp as damage. Her loop pattern is efficient. Buffs and debuffs are almost 100% +- time it takes to apply. One thing to note is that her UB Self buff is casted before the damage.\n just think of her as an attacker that trades crit rate for higher damage multiplier",
+    "kana": "ペコリーヌ（ニューイヤー）", 
+    "ubname": "New Year Strike", 
+    "ubdesc": "Medium amount of physical damage to the nearest enemy. If Pecorine's health is atleast 80%, deal a large amount of damage instead. Increases damage based on remaining health. \nIf Pecorine's health is atleast 90% boosts own physical attack by a large amount", 
+    "s1name": "Daifuku Time", 
+    "s1desc": "Boost own physical attack by a medium amount, if health is atleast 80% boosts the physical attack of all allies by a medium amount. Buff amount increases based on remaining health", 
+    "s2name": "Rising Sun", 
+    "s2desc": "Medium amount of physical damage to the nearest enemy. If remaining health is atleast 80%, lowers the target's physical defense by a medium amount. Increases damage based on remaining health.", 
+    "exname": "Shinshun Bishoku Power", 
+    "exdesc": "Medium increase to her maximum HP at the start of battle **5★: Large increase to her maximum HP at the start of battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/111831.webp",
+    "large": "https://redive.estertion.win/card/full/111831.webp",
+    "guild": "Bishoukuden",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→ATK→S2→S1→ATK→S2→ATK→S1→S2"
+},
 "ram": {
     "name": "Ram",
     "description": "Her skill set seems to be like it's supposed to be used with someone else. But I wouldn't know really. I'm not a game dev",
