@@ -1,7 +1,7 @@
 {
 "akari": {
     "name": "Akari",
-    "description": "A pretty good magical support. Does pretty good if you have a slot empty for dedicated debuffer/sub tank, she also applies a lifesteal buff that lasts for 1 attack on UB. She's also a cutie. I would suggest you to talent bloom her after you're done with the recommended in dungeon coins ",
+    "description": "Tank/Debuffer. Her 6★ makes her have so much utility. In terms of defense, she's **almost** as tanky. That being said, she has a better party heal than Yukari. So assuming she can chew through the enemies' damage. She can probably self sustain for the whole fight. She has a pretty nice Magical defense debuff for a UB, definitely needs to be paired up with other debuff to be really effective.",
     "kana": "アカリ", 
     "ubname": "Sweet Devil Yell", 
     "ubdesc": "Increases all allies magical attack by a small amount and grant a lifesteal buff for their next attack", 
@@ -12,10 +12,10 @@
     "exname": "Sweet Ignition", 
     "exdesc": "Medium increase to own magical attack power at the start of the battle. **5★: Large increase to own's magical attack power at the start of the battle**", 
     "s1plus": "Medium damage to the nearest enemy, **also reduces the magical defense by a small amount**", 
-    "upgrade": "", 
-    "upgradedesc": "", 
-    "image": "https://redive.estertion.win/icon/unit/100631.webp",
-    "large": "https://redive.estertion.win/card/full/100631.webp",
+    "upgrade": "Melty Devil Charm", 
+    "upgradedesc": "Increases all allies' magical attack and **magical crit rate by a massive amount and large amount respectively**,  and grant lifesteal buff for their next attack. **Also lowers the magical defense of all enemies by a large amount**", 
+    "image": "https://redive.estertion.win/icon/unit/100661.webp",
+    "large": "https://redive.estertion.win/card/full/100661.webp",
     "guild": "Diabolos",
     "initial": "S2→S1",
     "loop": "ATK→ATK→S2→ATK→S1→ATK→S1"
@@ -1721,14 +1721,14 @@
     "initial": "S2→S1",
     "loop": "ATK→S2→ATK→S1→ATK→S2→S1\nS1→S2"
 },
-"new year muimi": {
+"new year muim`i": {
     "name": "New Year Muimi, NYMuimi",
     "description": "Physical attacker that dashes to the front like rima. But unlike rima she doesn't have the hefty defense that she has. Unlikely to see her being worked on for anything but arena purposes. But her Attack pattern makes her a very efficient aoe attacker",
     "kana": "ムイミ（ニューイヤー）", 
     "ubname": "Shinshun Kenkon Tenseiken", 
     "ubdesc": "Deals massive amount of physical damage in an area around the nearest enemy", 
     "s1name": "Dokee!", 
-    "s1desc": "A short amount of time after the battle started. Dashes into the field and deals large amount to an area around the nearest enemy, lowers the primary target's physical defense by a large amount", 
+    "s1desc": "A short amount of time after the battle started. Dashes into the field and deals large amount to an area around the nearest enemy, lowers the primary target's physical defense by a large amount. Also pushes target by a small amount.", 
     "s2name": "Moratta Zo!", 
     "s2desc": "Deals medium amount of physical damage in an area around the nearest enemy, boosts own physical attack by a large amount", 
     "exname": "New Year Tension", 
