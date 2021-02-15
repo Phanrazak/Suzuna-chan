@@ -2387,11 +2387,11 @@
     "s1plus": "", 
     "upgrade": "", 
     "upgradedesc": "", 
-    "image": "https://redive.estertion.win/icon/unit/106711.webp",
-    "large": "https://redive.estertion.win/card/full/103131.webp",
+    "image": "https://redive.estertion.win/icon/unit/114331.webp",
+    "large": "https://redive.estertion.win/card/story/106400401.webp",
     "guild": "Bishokuden",
-    "initial": "S1→S2",
-    "loop": "ATK→ATK→S1→ATK→S2"
+    "initial": "S1→S2→ATK",
+    "loop": "S1→S2→ATK→S1→ATK→S2→ATK"
 },
 "shinobu": {
     "name": "Shinobu",
