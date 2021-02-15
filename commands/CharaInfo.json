@@ -2372,6 +2372,27 @@
     "initial": "S1→ATK→S2", 
     "loop": "S1→ATK→S2→S1→ATK→S2→ATK" 
 },
+"Shefi": {
+    "name": "Sheffy, Shefi, Blue haired Dragon girl",
+    "description": "I'll write my thoughts when I get her",
+    "kana": "シェフィ", 
+    "ubname": "Maizane・Moonlight Ice Dragon", 
+    "ubdesc": "Deals massive amount of physical damage to the nearest enemy, gains 5 Kennzeichen stacks to herself", 
+    "s1name": "Ice Skates", 
+    "s1desc": "Deals medium physical damage to the nearest enemy and lowers the target's physical defense by a large amount. The skill's damage increases according to the number of Kennzeichen Stacks. Uses up 1 stack of Kennzeichen", 
+    "s2name": "Frozen Lake", 
+    "s2desc": "Deploys a field around herself that boosts the physical attack of allies in range by a small amount. The potency doubles with each Kennzeichen stack. Uses up 1 stack of Kennzeichen", 
+    "exname": "Accell Rondo", 
+    "exdesc": "Increase own physical attack power by medium amount at the start of battle **5★: Increase own physical attack power by large amount at the start of battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/106711.webp",
+    "large": "https://redive.estertion.win/card/full/103131.webp",
+    "guild": "Bishokuden",
+    "initial": "S1→S2",
+    "loop": "ATK→ATK→S1→ATK→S2"
+},
 "shinobu": {
     "name": "Shinobu",
     "description": "An AOE debuffer. With damage and a decent physical buff. She also summons a skull that almost always conveniently lines up with most bosses' powerful attack timing. Worth the level on her",
