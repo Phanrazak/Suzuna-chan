@@ -2372,7 +2372,7 @@
     "initial": "S1→ATK→S2", 
     "loop": "S1→ATK→S2→S1→ATK→S2→ATK" 
 },
-"Shefi": {
+"shefi": {
     "name": "Sheffy, Shefi, Blue haired Dragon girl",
     "description": "I'll write my thoughts when I get her",
     "kana": "シェフィ", 
