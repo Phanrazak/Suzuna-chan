@@ -13,7 +13,7 @@ module.exports = {
 			.setURL('https://github.com/Phanrazak/Suzuna-chan')
 			.setTitle('ちょす！')
 			.setTimestamp(Date.now())
-			.setImage('https://redive.estertion.win/card/story/700300501.webp');
+			.setImage('https://redive.estertion.win/card/story/106400601.webp');
 		message.channel.send(embed);
   	}
 }
