@@ -861,8 +861,8 @@
     "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer kasumi": {
-    "name": "Magical Kasumi, Misty Kasumi, Misty Tantei Kasumi",
-    "description": "Will review later",
+    "name": "Summer Detective, Winter Kasumi",
+    "description": "Seems to have her uses in Krabat. Haven't seen any uses in Arena. Basically in Krabat she allows for more damage to be done via Crit. Also comes packed with her own magic defense down",
     "kana": "カスミ（サマー）", 
     "ubname": "Summer Detective", 
     "ubdesc": "Large magical damage to the enemy with the highest physical/magical attack(Whichever one is higher), and lowers the target's magical defense by a large amount. Also lowers target's physical and magical crit rate by a large amount", 
