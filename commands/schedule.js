@@ -5,11 +5,11 @@ module.exports = {
 	execute(message){
 	  const embed = new Discord.MessageEmbed()
 			.setColor('#FFB9BE')
-			.setURL('https://twitter.com/fishn_prcn/status/1355874885952630789')
+			.setURL('https://github.com/MalitsPlus/ShizuruNotes')
 			.setTitle('February')
 			.setTimestamp(Date.now())
 			.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png')
-			.setImage('https://i.imgur.com/12cT0jn.png');
+			.setImage('https://i.imgur.com/UucGzkl.png');
 		message.channel.send(embed);
 		
   }
