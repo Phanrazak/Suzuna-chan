@@ -1385,6 +1385,27 @@
     "initial": "S2→S1",
     "loop": "ATK→ATK→S2→ATK→S1"
 },
+"cinderella makoto": {
+    "name": "Cinderella Makoto, Cin Makoto, New Makoto",
+    "description": "A debuffer/buffer/attacker. While being nowhere near as good as Akira in terms of buff potency. She does reach really high numbers with it. Her AOE mostly covers all of the vanguard and maybe the front half of midguard(Akira not included). The buff kicks in before the Damage on her UB. Another thing to note is that her buff potency scales double per ally for UB and S1, and 0.3x per ally for her S2 damage",
+    "kana": "マコト（シンデレラ）", 
+    "ubname": "Wolfen Rondo", 
+    "ubdesc": "Boosts the physical attack and action speed of all allies in an area around her by a medium amount. Large physical damage to the nearest enemy. Physical attack buff potency scales with the amount of allies within the area", 
+    "s1name": "Chivalric Order", 
+    "s1desc": "Boosts the physical attack of all allies around her by a small amount. Physical attack buff potency scales with the amount of allies within the area", 
+    "s2name": "Cruel Dance", 
+    "s2desc": "Medium physical damage to the nearest enemy and lowers the target's defense by a small amount. Damage dealt scales with the amount of allies within the area", 
+    "exname": "Reirou no Kenbu", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/000001.webp",
+    "large": "https://i.imgur.com/zubi0Hn.jpg",
+    "guild": "Caon",
+    "initial": "S1→S2",
+    "loop": "ATK→S2→S1→ATK→S2→ATK"
+},
 "matsuri": {
     "name": "Matsuri",
     "description": "A very niche attacker. She's very unique, She can jump to basically the middle of the enemy's team and invoke chaos. She was useful during the Rangers event. Where the boss gets weak when there is an enemy behind it.",
