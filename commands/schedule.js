@@ -6,7 +6,7 @@ module.exports = {
 	  const embed = new Discord.MessageEmbed()
 			.setColor('#FFB9BE')
 			.setURL('https://github.com/MalitsPlus/ShizuruNotes')
-			.setTitle('February')
+			.setTitle('March')
 			.setTimestamp(Date.now())
 			.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png')
 			.setImage('https://i.imgur.com/UucGzkl.png');
