@@ -9,6 +9,7 @@ catch (e){
 }
 const client = new Discord.Client();
 const twit = require('./commands/pulltweets.js')
+const twit = require('./commands/pulltweets2.js')
 twit.run(client)
 
 const prefix = '^';
