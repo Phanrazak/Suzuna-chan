@@ -1,7 +1,7 @@
 const twit_list = 
 {
-  765105291633405954: "680749508547706887",
-  769070659943235584: "817006794550935572"
+    765105291633405954: "680749508547706887",
+    769070659943235584: "817006794550935572"
 };
 module.exports = {
     name: 'Pulltweet',
@@ -9,19 +9,19 @@ module.exports = {
     run(client) {
         var Twit = require('twit')
         try {
-            Config = require('./../config.json');
+            Config = require('./../config.json')
             var T = new Twit({
                 consumer_key: Config.twitterapi,
                 consumer_secret: Config.twittersecret,
                 access_token: Config.accesstoken,
                 access_token_secret: Config.accesssecret,
             })
-            const path = 'statuses/filter';
+            const path = 'statuses/filter'
             //const ids = ['765105291633405954']
-            const params = { follow: Object.keys(twit_list).join(',') };
-            var stream = T.stream(path, params);
+            const params = { follow: Object.keys(twit_list).join(',') }
+            var stream = T.stream(path, params)
             stream.on('error', err => {
-                console.log(err);
+                console.log(err)
             })
             stream.on('tweet', async tweet => {
                 if (!Object.keys(twit_list).includes(tweet.user.id_str)) {
