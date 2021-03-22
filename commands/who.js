@@ -15,9 +15,9 @@ module.exports = {
         const embed = new Discord.MessageEmbed();
         var Chara = Object.keys(CharaInfo);
         
-        embed.setTitle('Yo!');
+        embed.setTitle('NOP!');
         embed.setTimestamp(Date.now());
-        embed.setDescription('You can now click on the name for a link to the full card! This is to fit in more text and also save banwidth if you\'re on a limited quota');
+        embed.setDescription('There are lots of human error in Who command. Point them out will you. Kthx');
         embed.setColor('#FFB9B9');
         embed.setFooter("Suzuna-Chan","https://i.imgur.com/jNqJW4V.png");
         var args_lower = args.join(' ').toLowerCase();
@@ -25,7 +25,7 @@ module.exports = {
             let CharaItem = CharaInfo[args_lower];
             embed.setAuthor(CharaItem.name,CharaItem.image);
             embed.setTimestamp(Date.now());
-            embed.setDescription(CharaItem.description || "This is not supposed to show up. Make sure to make it an issue in the github page so I know that this is a problem");
+            embed.setDescription(CharaItem.description || "There are lots of human error in Who command. Point them out will you. Kthx");
             embed.setTitle(CharaItem.kana || 'No known aliases');
             embed.setURL(CharaItem.large);
             embed.setFooter(CharaItem.guild || 'No Guild','https://i.imgur.com/jNqJW4V.png');
