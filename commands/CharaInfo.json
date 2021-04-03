@@ -314,6 +314,27 @@
     "initial": "S1→ATK→S2",
     "loop": "ATK→ATK→S2"
 },
+"School Festival Chieru": {
+    "name": "School Festival Chieru, Terefest Chieru, Extremely Thicc Chieru",
+    "description": "Buffer/Attacker with a Slow start like her original counterpart. Unlike her original counterpart tho, She requires only hits to proc her Cheru. Also unlike her original counter part, her Starting buff is permanent. Other things to note is that she does 2 hits on normal attack, 3 on S1, and 4 on UB.",
+    "kana": "チエル（聖学祭）", 
+    "ubname": "Cheru☆Cheru☆Festiva", 
+    "ubdesc": "When Chieru has 40 Cheru Stacks, Boosts the physical attack of all allies by a medium amount, then increases TP Fill rate by a small amount and increases her damage when doing critical hits by a small amount(10%). Also deals a large amount of damage to the nnearest enemy.", 
+    "s1name": "Cherurun☆Rush Hour", 
+    "s1desc": "Medium physical damage to the nearest enemy. Skill's damage increases according to the current Cheru Stacks", 
+    "s2name": "Cheru Fest☆ala Mode", 
+    "s2desc": "Gains stacks whenever cheru hits an enemy. Also boosts her physical attack by a medium amount and her action speed by a large amount (75%)", 
+    "exname": "24-Jikan☆Cherun Na Ko", 
+    "exdesc": "Medium increase to own physical attack at the start of battle, **5★: Medium increase to own physical attack at the start of battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/116331.webp",
+    "large": "https://redive.estertion.win/card/full/116331.webp",
+    "guild": "St. Theresa Girls' Academy(Buddy Club)",
+    "initial": "S2→ATK",
+    "loop": "S1→ATK→ATK"
+},
 "chika": {
     "name": "Chika",
     "description": "Magical healer that is focused for physical team. Chika is one of the early game healers. She raises physical attack, hence why she is good with a physical team. Though on UB she does a party wide heal. She is a double edge sword as a summon killed can help enemies with TP",
