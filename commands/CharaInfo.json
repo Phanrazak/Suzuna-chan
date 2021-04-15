@@ -398,6 +398,27 @@
     "initial": "S1",
     "loop": "S2→ATK→ATK→S2→ATK"
 },
+"school festival chloe": {
+    "name": "Armpit supreme",
+    "description": "||I have an armpit fetish. I see armpit. I roll.|| A very strong physical ramp attacker/Debuffer. Her S1 has a debuff that lasts for 18s instead of the standard 12s for normal skills. Her S1 and UB Buff lasts for the entire battle. Her S1 makes her even stronger than she already looks on paper. For reference, her UB does 6 hits. and S2 does 2. A downgrade from her Original UB of 20 hits.",
+    "kana": "クロエ（聖学祭）", 
+    "ubname": "Kin'iro no hayate", 
+    "ubdesc": "Large physical damage to the nearest enemy and boosts her physical attack by a large amount.", 
+    "s1name": "Mayuri??? No Sayoarashi", 
+    "s1desc": "Boosts own physicall attack by a medium amount and lower the physical defense of the nearest character by a large amount. After dealing damage 49 times, recovers TP to full.", 
+    "s2name": "Suibi no shinato", 
+    "s2desc": "Medium physical damage to the nearest enemy.", 
+    "exname": "Fukisusabu oroshi", 
+    "exdesc": "Medium increase to own at the start of the battle. **5★: Large increase to own at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/116231.webp",
+    "large": "https://redive.estertion.win/card/full/116231.webp",
+    "guild": "St. Theresa Girls' Academy(Buddy Club)",
+    "initial": "S1",
+    "loop": "S2→ATK→S1→S2→ATK"
+},
 "christina": {
     "name": "Christina, Babatina",
     "description": "A popular damage dealer that does well in alot of content. Her UE is one of the top most priority. If you have her, make sure to invest whale tears into her.",
@@ -1786,7 +1807,7 @@
 },
 "monica": {
     "name": "Monica, Monika",
-    "description": "",
+    "description": "a pvp character. Her S1 is only used at the start of the battle. It lasts for 20s. Nothing much to note about her apart from the fact that she stuns the nearest enemy every 3 hits",
     "kana": "モニカ", 
     "ubname": "Shiden Issen", 
     "ubdesc": "Medium physical damage to all enemies in an area infront of Monica", 
