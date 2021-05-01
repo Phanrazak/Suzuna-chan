@@ -734,6 +734,27 @@
     "initial": "S1→S2",
     "loop": "ATK→ATK→S1→ATK→S2→ATK→S2"
 },
+"sos inori": {
+    "name": "Time Traveller Inori, That one time Inori fucked up her experiment so badly",
+    "description": "A double edged party wide buffer/subtank. Her kit has a very very powerful physical attack buff in exchange for 20% of all allies' Def except for hers. Something to note is that her S2 damage calculates +120% of her remaining HP. While UB Buff calculates 22.5% of her remaining HP.",
+    "kana": "イノリ（タイムトラベル）", 
+    "ubname": "Dragon's Tact", 
+    "ubdesc": "Increases the whole party's Physical attack by a large amount. Also lowers the physical and magical defense of other allies by a medium amount(20%). Buff potency goes up the more remaining hp Inori has", 
+    "s1name": "Dragon's Shot", 
+    "s1desc": "Medium physical damage to the nearest enemy, as well as lower their physical defense by a large amount", 
+    "s2name": "Dramu Flame", 
+    "s2desc": "Medium physical daamge to the nearest enemy. Damage done is higher, the higher Inori's remaining HP is", 
+    "exname": "Gekokujo? Desu yo", 
+    "exdesc": "Medium increase to own physical attack at the start of battle, **5★: Large increase to own physical attack at the start of battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/116531.webp",
+    "large": "https://redive.estertion.win/card/full/116531.webp",
+    "guild": "Dragon's Nest",
+    "initial": "S1→S2",
+    "loop": "ATK→S1→S2→ATK→S1→ATK→S2"
+},
 "io": {
     "name": "Io, Io Sensei",
     "description": "She's not used much even on 6★. Maybe in offensive arena where you can choose your own battle. In Defensive she probably can't do anything since Yukari is a thing. And she's easily countered. Atleast her plot makes her health bloat, so she can take a few hits.",
