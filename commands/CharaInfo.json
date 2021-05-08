@@ -2689,7 +2689,7 @@
 },
 "suzume": {
     "name": "Suzume",
-    "description": "Bad skills. She just doesn't fit into any party.",
+    "description": "Her 6★ has an acquired taste. There's a lot to take in here. Instead of lowering enemies' physical defense only. She lowers both of them. Which means that she's probably a good magical debuffer. Not to say that it's any good for bosses. Since Halloween Kyouka is still a viable option.",
     "kana": "スズメ", 
     "ubname": "Wind Stream", 
     "ubdesc": "Medium magical damages to all enemies in the front range and reduce enemies physical defense by random amount, small to medium based on her UB animation", 
@@ -2700,10 +2700,10 @@
     "exname": "Maid Spirit", 
     "exdesc": "Increase own magical attack power by medium amount at the start of battle **5★: Increase own magical attack power by large amount at the start of battle**", 
     "s1plus": "Small magical damage to all enemies in the front range **and reduce enemies physical and magical defense by small amount**", 
-    "upgrade": "", 
-    "upgradedesc": "", 
-    "image": "https://redive.estertion.win/icon/unit/102531.webp",
-    "large": "https://redive.estertion.win/card/full/102531.webp",
+    "upgrade": "Sweep Cyclone", 
+    "upgradedesc": "Massive magical damage to all enemies in an area around the nearest enemy, Also debuffs their physical and magical defense by a large amount.", 
+    "image": "https://redive.estertion.win/icon/unit/102561.webp",
+    "large": "https://redive.estertion.win/card/full/102561.webp",
     "guild": "Sarendia Orphanage",
     "initial": "S2→S1",
     "loop": "ATK→S2→ATK→S1→ATK→S1"
