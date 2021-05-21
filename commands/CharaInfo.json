@@ -965,6 +965,27 @@
     "initial": "S2→S1→S1→S2→ATK→S1→S2",
     "loop": "S1→ATK→S2→ATK→S1→ATK→ATK→S2→ATK"
 },
+"sos kaya": {
+    "name": "Flight Attendant Kaya, Time Travelling Dragon",
+    "description": "A UB based attacker with very powerful buffs. Her",
+    "kana": "カヤ（タイムトラベル）", 
+    "ubname": "Dragon's end Burst", 
+    "ubdesc": "Massive physical damage to the nearest enemy, boost action speed massively (400%) and boosts TP Fill rate by a medium amount(15)", 
+    "s1name": "Dragon's Edge", 
+    "s1desc": "Large physical damage to the nearest enemy", 
+    "s2name": "Accel Reactor", 
+    "s2desc": "Boosts own physical attack by a medium amount. Additionally, if Action speed buff is present, increase own TP by a medium amount. Else, boosts own action speed by a large amount(150%)", 
+    "exname": "Full Burst Dragon", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/116631.webp",
+    "large": "https://redive.estertion.win/card/full/116631.webp",
+    "guild": "Dragon's Nest",
+    "initial": "S2→S1",
+    "loop": "ATK→S2→S1→ATK→S2→S1→ATK"
+},
 "kokkoro": {
     "name": "Kokkoro",
     "description": "An extraordinary buffer that does well in both physical and magical team. She acts mainly as a tank if you put her in a magical team since she is mainly in the front", 
