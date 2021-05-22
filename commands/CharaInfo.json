@@ -967,7 +967,7 @@
 },
 "sos kaya": {
     "name": "Flight Attendant Kaya, Time Travelling Dragon",
-    "description": "A UB based attacker with very powerful buffs. Her",
+    "description": "A self accelerated UB based attacker with very powerful buffs. Her attack multipliers are not all that impressive to look at. She should be on par with or better than Ooedo Ninon in terms of damage done.",
     "kana": "カヤ（タイムトラベル）", 
     "ubname": "Dragon's end Burst", 
     "ubdesc": "Massive physical damage to the nearest enemy, boost action speed massively (400%) and boosts TP Fill rate by a medium amount(15)", 
