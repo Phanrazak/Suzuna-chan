@@ -1136,7 +1136,7 @@
 "kurumi": {
     "name": "Kurumi",
     "description": "With her 6★. Her attack is now in a small AOE. Also giving your team a lot of defense. ",
-    "kana": "アヤネ", 
+    "kana": "クルミ", 
     "ubname": "Timid Bell Swing", 
     "ubdesc": "Large physical damage to the nearest enemy, inflict stun", 
     "s1name": "Bravely ~~You~~ Bell", 
@@ -1157,7 +1157,7 @@
 "christmas kurumi": {
     "name": "Christmas Kurumi",
     "description": "Like normal Kurumi. Only this time she's cuter.",
-    "kana": "アヤネ（クリスマス）", 
+    "kana": "クルミ（クリスマス）", 
     "ubname": "Winter Call Bell", 
     "ubdesc": "Boosts the magical defense of all allies by a large amount, deploys a medium absorption barrier on herself", 
     "s1name": "Bell Cheering", 
@@ -2162,6 +2162,27 @@
     "initial": "S1",
     "loop": "S2→ATK→ATK→S2→ATK→ATK→S2→ATK→ATK→S1"
 },
+"summer nozomi": {
+    "name": "Summer Nozomi, Sweaty Idol but in a bikini prpr",
+    "description": "A survival support character? Her initial loop makes her seems like the type to protect everyone while they ramp up to get their UB charge ~~cough cough Muimi~~. She also has a phys crit up for all characters on UB",
+    "kana": "ノゾミ（サマー）", 
+    "ubname": "Memories of Summer", 
+    "ubdesc": "Increases the physical crit damage by a small amount(16%) too all allies, Additionally deals large amount of physical damage to the nearest enemy", 
+    "s1name": "Summer Idol Cheer", 
+    "s1desc": "Boosts the physical attack of all allies by a medium amount, additionally increases their physical and magical defense by a medium amount", 
+    "s2name": "Summer Breeze", 
+    "s2desc": "Recovers the TP of all allies and boosts their physical attack by a small amount", 
+    "exname": "Sunshine Smile", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/117231.webp",
+    "large": "https://redive.estertion.win/card/full/117231.webp",
+    "guild": "Carmina",
+    "initial": "S1→ATK→S1→ATK",
+    "loop": "ATK→S2→S1→ATK→S2→ATK→S2"
+},
 "pecorine": {
     "name": "Pecorine, Aho-rine",
     "description": "A tank that does well in any content that she's put in. She has a tonne of HP, thanks to the EX Skill. 6★ makes her one of the most chonkiest characters in the game", 
@@ -3064,6 +3085,27 @@
     "guild": "Carmina",
     "initial": "S2→S1→ATK→S2",
     "loop": "S1→ATK→S2→ATK→S1→ATK→S2"
+},
+"summer tsumugi": {
+    "name": "Summer Tsumugi",
+    "description": "A unique arena character. Like her other counterparts. She can pull enemies closer to her. Except this time, it's on a Skill and is the first action. Might be good against something like ninon or anyone that uses saren TP Buff.",
+    "kana": "ツムギ（サマー）", 
+    "ubname": "Karmina Summer Dome ", 
+    "ubdesc": "Deals large amount of physical damage to the nearest enemy and lowers their action speed by a large amount(50%)", 
+    "s1name": "Splash string ", 
+    "s1desc": "Deals medium amount of physical damage to the nearest enemy and afflicts them with the bind debuff.", 
+    "s2name": "Summer bind action ", 
+    "s2desc": "Deals small amount of physical damage to an enemy with the highest physical or highest magical atk. and afflicts them with the bind debuff, Additionally pulls them closer to her", 
+    "exname": "Tailor imagination ", 
+    "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/117431.webp",
+    "large": "https://redive.estertion.win/card/full/117431.webp",
+    "guild": "Carmina",
+    "initial": "→",
+    "loop": ""
 },
 "uzuki": {
     "name": "Uzuki",
