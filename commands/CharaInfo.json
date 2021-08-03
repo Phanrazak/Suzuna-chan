@@ -3104,8 +3104,8 @@
     "image": "https://redive.estertion.win/icon/unit/117431.webp",
     "large": "https://redive.estertion.win/card/full/117431.webp",
     "guild": "Carmina",
-    "initial": "→",
-    "loop": ""
+    "initial": "S2→ATK→S1",
+    "loop": "ATK→S1→ATK→S2→ATK→ATK→S1"
 },
 "uzuki": {
     "name": "Uzuki",
