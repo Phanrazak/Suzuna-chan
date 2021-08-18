@@ -484,7 +484,7 @@
 },
 "djeeta": {
     "name": "Djeeta",
-    "description": "A single target self accelerating attacker. She's a pretty popular use thanks to her TP boost for the whole team.",
+    "description": "Best girl",
     "kana": "ジータ", 
     "ubname": "Tempest Blade", 
     "ubdesc": "Deals a large amount of physical damage to the nearest enemy", 
@@ -641,7 +641,7 @@
     "s2desc": "Medium magical attack and magical crit to all allies in range", 
     "exname": "Happy☆Cheer Voice", 
     "exdesc": "Medium increase to own magical attack at the start of the battle. **5★: Large increase to own magical attack at the start of the battle. **", 
-    "s1plus": "", 
+    "s1plus": "**Large** magical damage to all enemies to all enemies. Restores a medium amount of TP, **Damage** TP amount goes up with the number of enemies hit", 
     "upgrade": "", 
     "upgradedesc": "", 
     "image": "https://redive.estertion.win/icon/unit/113431.webp",
@@ -872,7 +872,7 @@
     "s2desc": "Large physical damage to the nearest enemy", 
     "exname": "Summer Justice", 
     "exdesc": "Medium increase to own physical attack at the start of the battle. **5★: Large increase to own physical attack at the start of the battle. **", 
-    "s1plus": "", 
+    "s1plus": "**Small boost to own physical attack,** Medium physical damage to the nearest enemy, inflict burn. Burn damage scales off of her Physical attack", 
     "upgrade": "", 
     "upgradedesc": "", 
     "image": "https://redive.estertion.win/icon/unit/113631.webp",
@@ -1796,7 +1796,7 @@
     "s2desc": "Increases all allies' physical attack and magical defense by a medium amount", 
     "exname": "Summer Guidance", 
     "exdesc": "Medium increase to own magical attack at the start of battle. **5★: Large increase to own magical attack at the start of battle**", 
-    "s1plus": "", 
+    "s1plus": "Increases the frontmost ally's magical defense by a large amount, Grants a healing regen, **Boosts their defence by a medium amount opposite type of the what kind of attacks their normal atk damage dealls**", 
     "upgrade": "", 
     "upgradedesc": "", 
     "image": "https://redive.estertion.win/icon/unit/113531.webp",
@@ -2604,7 +2604,7 @@
     "loop": "ATK→S2→ATK→S1"
 },
 "saren": {
-    "name": "Saren, ",
+    "name": "Saren",
     "description": "A TP support still even on 6★. Albeit much tankier and much higher damage. Her damaging skills is mostly just reseved to Arena nowadays. TP is commonly needed everywhere.",
     "kana": "サレン", 
     "ubname": "Sword Of Phoenix", 
@@ -2919,8 +2919,8 @@
     "loop": "ATK→ATK→S2→ATK→S1"
 },
 "summer suzuna": {
-    "name": "Summer Suzuna,Best girl",
-    "description": "Best girl, do I need to say more?",
+    "name": "Summer Suzuna, Best girl",
+    "description": "A single target attacker with the power to scale up after 32s have passed in action time",
     "kana": "スズナ（サマー）", 
     "ubname": "Tropical Splash", 
     "ubdesc": "Massive physical damage to the nearest enemy, if Suzuna already cast 'Summer Runaway' skill, deal critical", 
