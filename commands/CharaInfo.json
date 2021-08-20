@@ -398,6 +398,27 @@
     "initial": "S1→S2",
     "loop": "ATK→ATK→S1→ATK→S2"
 },
+"summer chika": {
+    "name": "Summer Chika",
+    "description": "A defensive healer/Support that can deal with Magic pretty well",
+    "kana": "チカ（サマー）", 
+    "ubname": "Summer Ocean Symphony", 
+    "ubdesc": "Boosts Physical defense and magical defense of all allies by a large amount. Also deploys an absorption barrier for both physical and magical damage to them", 
+    "s1name": "Ocean Protection", 
+    "s1desc": "Increases the magical defense of allies in an area around her by a massive amount. Skill potency wears down over multiple uses", 
+    "s2name": "Dolphin Song", 
+    "s2desc": "Heals the lowest health ally for a large amount and applies a regen to them for a large amount", 
+    "exname": "Summer Diva", 
+    "exdesc": "Medium increase to own magical Attack at the start of the battle. **5★: Large increase to own magical attack at the start of the battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/117331.webp",
+    "large": "https://redive.estertion.win/card/full/117331.webp",
+    "guild": "Carmina",
+    "initial": "S1→S2→ATK→S1→ATK→S2",
+    "loop": "ATK→S1→ATK→S2→ATK→S1→ATK→S2→ATK"
+},
 "chloe": {
     "name": "Chloe, Kuroe",
     "description": "An attacker/debuffer. In a long boss fight, she has high damage potential and high debuff potential too. Her UB does 20 hits and S2 does 5, considering her attack loop just consists of skill 2 and attacks. Would recommend to upgrade her UE before you invest into talent Blooming",
