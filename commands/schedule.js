@@ -6,10 +6,10 @@ module.exports = {
 	  const embed = new Discord.MessageEmbed()
 			.setColor('#FFB9BE')
 			.setURL('https://twitter.com/kororon2020/status/1423202098682810370')
-			.setTitle('I love lolis')
+			.setTitle('It is Sept my dudes')
 			.setTimestamp(Date.now())
 			.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png')
-			.setImage('https://i.imgur.com/kQY2NWW.png');
+			.setImage('https://cdn.discordapp.com/attachments/680749508547706887/882157125625839647/Screenshot_20210830-235646.png');
 		message.channel.send(embed);
 		
   }
