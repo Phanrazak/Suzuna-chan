@@ -5,7 +5,7 @@ module.exports = {
 	execute(message){
 	  const embed = new Discord.MessageEmbed()
 			.setColor('#FFB9BE')
-			.setURL('https://twitter.com/kororon2020/status/1423202098682810370')
+			.setURL('')
 			.setTitle('It is Sept my dudes')
 			.setTimestamp(Date.now())
 			.setFooter('Suzuna-Chan','https://i.imgur.com/jNqJW4V.png')
