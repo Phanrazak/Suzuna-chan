@@ -2792,6 +2792,27 @@
     "initial": "S1→S2",
     "loop": "ATK→ATK→S1→ATK→S2"
 },
+"princess shiori": {
+    "name": "Princess Shiori, Shitsune, Hatsushio, Hatsune and Shiori, Shiosune, Hatsuri, Yuri Incest, ",
+    "description": "Physical attacker cum buffer. **ALL** of her buffs are permanent throughout the battle. So it's important to not skip her S2 procs. Which is the spinny hatsune. Her ranged is a bit limited.",
+    "kana": "ハツネ & シオリ", 
+    "ubname": "My Dear Star", 
+    "ubdesc": "Increases own physical attack by a large amount, and deal massive amount of physical damage to an area around the nearest enemy", 
+    "s1name": "Starlight☆Shoot", 
+    "s1desc": "Deal large amount of physical damage to an area around the nearest enemy, as well as recovers a large amount of TP. Damage dealt and amount of TP recovered increases according to the number of enemies hit ", 
+    "s2name": "Sister's ☆Link", 
+    "s2desc": "boosts the physical attack, physical critical rate and physical crit damage by a small amount. Buff potency goes up according to Shiori's physical attack", 
+    "exname": "Fully☆Bond Power", 
+    "exdesc": "Increase own physical attack power by medium amount at the start of battle **5★: Increase own physical attack power by large amount at the start of battle**", 
+    "s1plus": "", 
+    "upgrade": "", 
+    "upgradedesc": "", 
+    "image": "https://redive.estertion.win/icon/unit/180731.webp",
+    "large": "https://redive.estertion.win/card/full/180731.webp",
+    "guild": "Yuri Incest Club",
+    "initial": "S2→ATK→S1",
+    "loop": "S2→S1→ATK→S1→S2→S1→ATK→S1→ATK"
+},
 "shizuru": {
     "name": "Onee-Chan",
     "description": "A sub tank/Main tank if you wanna go that route. The only usable Vanguard if you wanna bring her for a tank is Christina. Otherwise she'll stay at the back and heal your midguard and vanguard. You can bring Saren in with Christina and Shizuru will get the TP buff which is pretty good",
